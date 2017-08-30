@@ -1,0 +1,132 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0AAD7148-2A51-48D2-8E2A-9296D5D341FD}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>pioneer3DXrobotDashboard.Y2009.M03</AssemblyName>
+    <RootNamespace>Microsoft.Robotics.Atani.Pioneer3DXrobotDashboard</RootNamespace>
+    <AssemblyOriginatorKeyFile>C:\Users\Tom\Microsoft Robotics Dev Studio 2008 R3\samples\mrisamples.snk</AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>False</DelaySign>
+    <SignAssembly>True</SignAssembly>
+    <OutputType>Library</OutputType>
+    <RunPostBuildEvent>OnOutputUpdated</RunPostBuildEvent>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>C:\Users\Tom\Microsoft Robotics Dev Studio 2008 R3\bin\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE;INSTRUMENTED</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>C:\Users\Tom\Microsoft Robotics Dev Studio 2008 R3\bin\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE;INSTRUMENTED</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugType>pdbonly</DebugType>
+    <DefineConstants>TRACE</DefineConstants>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Ccr.Adapters.WinForms, Version=2.2.76.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Ccr.Core, Version=2.2.76.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Dss.Base, Version=2.2.76.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Dss.Runtime, Version=2.2.76.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="mscorlib">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="pioneer3DXrobotDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pioneer3DXrobotDashboardForm.Designer.cs">
+      <DependentUpon>pioneer3DXrobotDashboardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pioneer3DXrobotDashboard.cs" />
+    <Compile Include="pioneer3DXrobotDashboardTypes.cs" />
+    <AppDesigner Include="Properties" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="pioneer3DXrobotDashboardService.Image.png" />
+    <Content Include="pioneer3DXrobotDashboard.ico" />
+    <EmbeddedResource Include="pioneer3DXrobotDashboardService.Thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="pioneer3DXrobotDashboardForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>pioneer3DXrobotDashboardForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <PropertyGroup Condition="'$(DelaySign)'!=''">
+    <ProxyDelaySign>/delaysign+</ProxyDelaySign>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>"C:\Users\Tom\Microsoft Robotics Dev Studio 2008 R3\bin\DssProxy.exe" /dll:"$(TargetPath)" /proxyprojectpath:"$(ProjectDir)Proxy " /keyfile:"$(AssemblyOriginatorKeyFile)" $(ProxyDelaySign) $(CompactFrameworkProxyGen) /binpath:". " @(ReferencePath->'/referencepath:"%(RootDir)%(Directory) "', ' ')</PostBuildEvent>
+  </PropertyGroup>
+</Project>

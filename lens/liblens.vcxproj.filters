@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Src">
+      <UniqueIdentifier>{d177f4b0-7808-4546-8151-6d9a2c7d7901}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TclTk">
+      <UniqueIdentifier>{057b4552-7e0f-4d76-ae9e-3b176ae281a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TclTk\include">
+      <UniqueIdentifier>{1b5128ce-e856-4a4b-9a95-43a65b8639b4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TclTk\include\tcl.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="TclTk\include\tclDecls.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="TclTk\include\tclInt.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="TclTk\include\tclIntDecls.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="TclTk\include\tk.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="TclTk\include\tkCanvas.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="TclTk\include\tkDecls.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="TclTk\include\tkInt.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="TclTk\include\tkIntDecls.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="TclTk\include\tkPort.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="TclTk\include\tkWinPort.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\act.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\canvRect.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\command.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\connect.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\control.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\defaults.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\display.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\example.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\extension.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\graph.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\lens.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\network.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\object.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\parallel.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\sysext.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\system.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\tkCanvas.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\train.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\type.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\util.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Src\act.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\canvRect.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\command.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\connect.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\connectCom.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\control.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\display.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\displayCom.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\example.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\exampleCom.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\extension.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\graph.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\graphCom.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\library.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\network.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\networkCom.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\object.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\objectCom.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\parallel.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\parallelCom.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\train.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\trainCom.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\type.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\util.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\auto.tcl">
+      <Filter>Src</Filter>
+    </None>
+    <None Include="Src\button.tcl">
+      <Filter>Src</Filter>
+    </None>
+    <None Include="Src\console.tcl">
+      <Filter>Src</Filter>
+    </None>
+    <None Include="Src\display.tcl">
+      <Filter>Src</Filter>
+    </None>
+    <None Include="Src\entry.tcl">
+      <Filter>Src</Filter>
+    </None>
+    <None Include="Src\file.tcl">
+      <Filter>Src</Filter>
+    </None>
+    <None Include="Src\fileselect.tcl">
+      <Filter>Src</Filter>
+    </None>
+    <None Include="Src\getHeaders">
+      <Filter>Src</Filter>
+    </None>
+    <None Include="Src\graph.tcl">
+      <Filter>Src</Filter>
+    </None>
+    <None Include="Src\init.tcl">
+      <Filter>Src</Filter>
+    </None>
+    <None Include="Src\interface.tcl">
+      <Filter>Src</Filter>
+    </None>
+    <None Include="Src\lensrc.tcl">
+      <Filter>Src</Filter>
+    </None>
+    <None Include="Src\listbox.tcl">
+      <Filter>Src</Filter>
+    </None>
+    <None Include="Src\menu.tcl">
+      <Filter>Src</Filter>
+    </None>
+    <None Include="Src\object.tcl">
+      <Filter>Src</Filter>
+    </None>
+    <None Include="Src\scale.tcl">
+      <Filter>Src</Filter>
+    </None>
+    <None Include="Src\scrlbar.tcl">
+      <Filter>Src</Filter>
+    </None>
+    <None Include="Src\shell.tcl">
+      <Filter>Src</Filter>
+    </None>
+    <None Include="Src\text.tcl">
+      <Filter>Src</Filter>
+    </None>
+    <None Include="Src\tk.tcl">
+      <Filter>Src</Filter>
+    </None>
+  </ItemGroup>
+</Project>

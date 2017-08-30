@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Src\act.h" />
+    <ClInclude Include="Src\canvRect.h" />
+    <ClInclude Include="Src\command.h" />
+    <ClInclude Include="Src\connect.h" />
+    <ClInclude Include="Src\control.h" />
+    <ClInclude Include="Src\defaults.h" />
+    <ClInclude Include="Src\display.h" />
+    <ClInclude Include="Src\example.h" />
+    <ClInclude Include="Src\extension.h" />
+    <ClInclude Include="Src\graph.h" />
+    <ClInclude Include="Src\lens.h" />
+    <ClInclude Include="Src\network.h" />
+    <ClInclude Include="Src\object.h" />
+    <ClInclude Include="Src\parallel.h" />
+    <ClInclude Include="Src\sysext.h" />
+    <ClInclude Include="Src\system.h" />
+    <ClInclude Include="Src\tkCanvas.h" />
+    <ClInclude Include="Src\train.h" />
+    <ClInclude Include="Src\type.h" />
+    <ClInclude Include="Src\util.h" />
+    <ClInclude Include="TclTk\include\tcl.h" />
+    <ClInclude Include="TclTk\include\tclDecls.h" />
+    <ClInclude Include="TclTk\include\tclInt.h" />
+    <ClInclude Include="TclTk\include\tclIntDecls.h" />
+    <ClInclude Include="TclTk\include\tk.h" />
+    <ClInclude Include="TclTk\include\tkCanvas.h" />
+    <ClInclude Include="TclTk\include\tkDecls.h" />
+    <ClInclude Include="TclTk\include\tkInt.h" />
+    <ClInclude Include="TclTk\include\tkIntDecls.h" />
+    <ClInclude Include="TclTk\include\tkPort.h" />
+    <ClInclude Include="TclTk\include\tkWinPort.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Src\act.c" />
+    <ClCompile Include="Src\canvRect.c" />
+    <ClCompile Include="Src\command.c" />
+    <ClCompile Include="Src\connect.c" />
+    <ClCompile Include="Src\connectCom.c" />
+    <ClCompile Include="Src\control.c" />
+    <ClCompile Include="Src\display.c" />
+    <ClCompile Include="Src\displayCom.c" />
+    <ClCompile Include="Src\example.c" />
+    <ClCompile Include="Src\exampleCom.c" />
+    <ClCompile Include="Src\extension.c" />
+    <ClCompile Include="Src\graph.c" />
+    <ClCompile Include="Src\graphCom.c" />
+    <ClCompile Include="Src\library.c" />
+    <ClCompile Include="Src\network.c" />
+    <ClCompile Include="Src\networkCom.c" />
+    <ClCompile Include="Src\object.c" />
+    <ClCompile Include="Src\objectCom.c" />
+    <ClCompile Include="Src\parallel.c" />
+    <ClCompile Include="Src\parallelCom.c" />
+    <ClCompile Include="Src\train.c" />
+    <ClCompile Include="Src\trainCom.c" />
+    <ClCompile Include="Src\type.c" />
+    <ClCompile Include="Src\util.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\auto.tcl" />
+    <None Include="Src\button.tcl" />
+    <None Include="Src\console.tcl" />
+    <None Include="Src\display.tcl" />
+    <None Include="Src\entry.tcl" />
+    <None Include="Src\file.tcl" />
+    <None Include="Src\fileselect.tcl" />
+    <None Include="Src\getHeaders" />
+    <None Include="Src\graph.tcl" />
+    <None Include="Src\init.tcl" />
+    <None Include="Src\interface.tcl" />
+    <None Include="Src\lensrc.tcl" />
+    <None Include="Src\listbox.tcl" />
+    <None Include="Src\menu.tcl" />
+    <None Include="Src\object.tcl" />
+    <None Include="Src\scale.tcl" />
+    <None Include="Src\scrlbar.tcl" />
+    <None Include="Src\shell.tcl" />
+    <None Include="Src\text.tcl" />
+    <None Include="Src\tk.tcl" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{03647303-DADD-4859-A1AF-25E596AEAEDE}</ProjectGuid>
+    <RootNamespace>liblens</RootNamespace>
+    <Keyword>Win32Proj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.30319.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Bin\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Debug\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</LinkIncremental>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Bin\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Release\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkIncremental>
+    <CodeAnalysisRuleSet Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRules Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />
+    <CodeAnalysisRuleAssemblies Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />
+    <CodeAnalysisRuleSet Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRules Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />
+    <CodeAnalysisRuleAssemblies Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">liblens2.63</TargetName>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">liblens2.63</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.lib</TargetExt>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.lib</TargetExt>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;VERSION=2.63;NO_TK;_DEBUG;_WINDOWS;_USRDLL;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <AdditionalIncludeDirectories>TclTk\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <OutputFile>Bin\liblens2.63.lib</OutputFile>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <ImportLibrary>Bin\liblens2.63.lib</ImportLibrary>
+      <TargetMachine>MachineX86</TargetMachine>
+      <AdditionalLibraryDirectories>C:\Tcl\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>tcl85.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>TclTk\include;C:\Tcl\include\tcl8.5;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;VERSION=2.63;NO_TK;NDEBUG;_WINDOWS;_USRDLL;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <OutputFile>Bin\liblens2.63.lib</OutputFile>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <ImportLibrary>Bin\liblens2.63.lib</ImportLibrary>
+      <TargetMachine>MachineX86</TargetMachine>
+      <AdditionalLibraryDirectories>C:\Tcl\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>tcl85.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

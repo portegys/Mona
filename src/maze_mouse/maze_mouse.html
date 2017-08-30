@@ -1,0 +1,56 @@
+<HTML>
+<HEAD>
+<TITLE>Maze-learning Mouse</TITLE>
+</HEAD>
+<BODY bgcolor="#afafaf" >
+<center>
+<h3>Maze-learning Mouse</h3>
+<p>
+<object
+    classid = "clsid:8AD9C840-044E-11D1-B3E9-00805F499D93"
+    codebase = "http://java.sun.com/update/1.5.0/jinstall-1_5-windows-i586.cab#Version=1,5,0,0"
+    WIDTH = 700 HEIGHT = 500 NAME = MazeMouse >
+    <PARAM NAME = "name" VALUE = "MazeMouse" >
+    <PARAM NAME = CODE VALUE = "mona.MazeMouse" >
+    <PARAM NAME = ARCHIVE VALUE = "MazeMouse.jar" >
+    <PARAM name = "type" VALUE = "application/x-java-applet;version=1.7">
+    <PARAM NAME= "scriptable" VALUE="false">
+    <PARAM NAME = ServerHost VALUE ="localhost">
+    <PARAM NAME = ServerPort VALUE ="7671">
+    <comment>
+    <applet archive="MazeMouse.jar"
+            code="mona.MazeMouse"
+            width=700 height=500>
+    <param name=ServerHost value="localhost">
+    <param name=ServerPort value="7671">
+    </applet>
+    </comment>
+</object>
+<pre>
+Create a path for the mouse to follow to the cheese by clicking on a sequence of rooms from one of the
+start rooms through the maze to one of the cheese goal rooms. Then train the mouse by selecting train
+mode and running a few trials. You run a trial by clicking the start trial control which starts the
+mouse moving through the rooms. When the mouse finishes moving, click stop trial. When the mouse is
+training, it is being shown the correct responses to make in each room. Now use test mode to test the
+mouse to see if it can find the cheese on its own!
+
+Now try something interesting! First click reset to make the mouse forget everything.
+Then select just one of the start rooms, the entry, exit, and one of the goal rooms. The mouse will
+"hop" over the maze. Train that a few times and test the mouse on it.
+
+Now train a path through just the maze by selecting the entry room, three connected maze rooms, and the
+exit room. Don't bother to test that now since the mouse didn't find any cheese that would make it want
+to do that on its own.
+
+Now comes the tricky part. Combine the paths that you trained separately into one path by selecting all
+the rooms from the start to the entry, then through the maze to the exit, then to the cheese goal. Test
+the mouse a few times to see if it can find the cheese. You may see it do an extra hop at the entry that
+it doesn't need to, but that's OK. If the mouse can find the cheese that means that it can combine things
+that it knows together to solve the problem!
+
+You can try other fancy stuff like training more than one start->entry->exit->goal room path, or changing
+the maze path while keeping the start->entry->exit->goal room path the same.
+</pre>
+</center>
+</BODY>
+</HTML>

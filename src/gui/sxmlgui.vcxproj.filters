@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files\GUI">
+      <UniqueIdentifier>{5d14477d-7b8e-40de-8fd8-c86b7b044d12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Tools">
+      <UniqueIdentifier>{2aedb7ea-de4a-491c-93fd-3f41c2c70e74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files\GUI">
+      <UniqueIdentifier>{6fd29512-c1ee-42e9-b3b1-421de8486299}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Tools">
+      <UniqueIdentifier>{31bf6baf-2ff4-45dc-a19b-2a1ce9c55418}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="glpng">
+      <UniqueIdentifier>{90cac6b9-1637-41d5-811e-e8facb731da8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="glpng\zlib">
+      <UniqueIdentifier>{179b17a0-dc37-4acd-8a9e-91aed44c2ffe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="glpng\png">
+      <UniqueIdentifier>{a2393501-3ad3-48ba-bfde-df99e96c2866}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GUIAlphaElement.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUIButton.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUICheckBox.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUIClippedRectangle.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUIComboBox.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUIEvent.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUIFont.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUIFontManager.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUIFrame.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUILabel.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUIPanel.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUIRadioButton.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUIRectangle.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUISeparator.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUISlider.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUITabbedPanel.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUITexCoordDescriptor.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUIText.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GUITextBox.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Font.cpp">
+      <Filter>Source Files\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="GenUtils.cpp">
+      <Filter>Source Files\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="GLee.cpp">
+      <Filter>Source Files\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureUtils.cpp">
+      <Filter>Source Files\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeUtils.cpp">
+      <Filter>Source Files\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="XMLUtils.cpp">
+      <Filter>Source Files\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="glpng\glpng.c">
+      <Filter>glpng</Filter>
+    </ClCompile>
+    <ClCompile Include="glpng\zlib\adler32.c">
+      <Filter>glpng\zlib</Filter>
+    </ClCompile>
+    <ClCompile Include="glpng\zlib\crc32.c">
+      <Filter>glpng\zlib</Filter>
+    </ClCompile>
+    <ClCompile Include="glpng\zlib\infblock.c">
+      <Filter>glpng\zlib</Filter>
+    </ClCompile>
+    <ClCompile Include="glpng\zlib\infcodes.c">
+      <Filter>glpng\zlib</Filter>
+    </ClCompile>
+    <ClCompile Include="glpng\zlib\inffast.c">
+      <Filter>glpng\zlib</Filter>
+    </ClCompile>
+    <ClCompile Include="glpng\zlib\inflate.c">
+      <Filter>glpng\zlib</Filter>
+    </ClCompile>
+    <ClCompile Include="glpng\zlib\inftrees.c">
+      <Filter>glpng\zlib</Filter>
+    </ClCompile>
+    <ClCompile Include="glpng\zlib\infutil.c">
+      <Filter>glpng\zlib</Filter>
+    </ClCompile>
+    <ClCompile Include="glpng\zlib\zutil.c">
+      <Filter>glpng\zlib</Filter>
+    </ClCompile>
+    <ClCompile Include="glpng\png\png.c">
+      <Filter>glpng\png</Filter>
+    </ClCompile>
+    <ClCompile Include="glpng\png\pngerror.c">
+      <Filter>glpng\png</Filter>
+    </ClCompile>
+    <ClCompile Include="glpng\png\pngget.c">
+      <Filter>glpng\png</Filter>
+    </ClCompile>
+    <ClCompile Include="glpng\png\pngmem.c">
+      <Filter>glpng\png</Filter>
+    </ClCompile>
+    <ClCompile Include="glpng\png\pngpread.c">
+      <Filter>glpng\png</Filter>
+    </ClCompile>
+    <ClCompile Include="glpng\png\pngread.c">
+      <Filter>glpng\png</Filter>
+    </ClCompile>
+    <ClCompile Include="glpng\png\pngrio.c">
+      <Filter>glpng\png</Filter>
+    </ClCompile>
+    <ClCompile Include="glpng\png\pngrtran.c">
+      <Filter>glpng\png</Filter>
+    </ClCompile>
+    <ClCompile Include="glpng\png\pngrutil.c">
+      <Filter>glpng\png</Filter>
+    </ClCompile>
+    <ClCompile Include="glpng\png\pngset.c">
+      <Filter>glpng\png</Filter>
+    </ClCompile>
+    <ClCompile Include="glpng\png\pngtrans.c">
+      <Filter>glpng\png</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="EasyGL.h">
+      <Filter>Header Files\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Font.h">
+      <Filter>Header Files\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="GenUtils.h">
+      <Filter>Header Files\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="GLee.h">
+      <Filter>Header Files\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="MathUtils.h">
+      <Filter>Header Files\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureUtils.h">
+      <Filter>Header Files\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeUtils.h">
+      <Filter>Header Files\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="XMLUtils.h">
+      <Filter>Header Files\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="glpng\glpng.h">
+      <Filter>glpng</Filter>
+    </ClInclude>
+    <ClInclude Include="glpng\zlib\infblock.h">
+      <Filter>glpng\zlib</Filter>
+    </ClInclude>
+    <ClInclude Include="glpng\zlib\infcodes.h">
+      <Filter>glpng\zlib</Filter>
+    </ClInclude>
+    <ClInclude Include="glpng\zlib\inffast.h">
+      <Filter>glpng\zlib</Filter>
+    </ClInclude>
+    <ClInclude Include="glpng\zlib\inffixed.h">
+      <Filter>glpng\zlib</Filter>
+    </ClInclude>
+    <ClInclude Include="glpng\zlib\inftrees.h">
+      <Filter>glpng\zlib</Filter>
+    </ClInclude>
+    <ClInclude Include="glpng\zlib\infutil.h">
+      <Filter>glpng\zlib</Filter>
+    </ClInclude>
+    <ClInclude Include="glpng\zlib\zconf.h">
+      <Filter>glpng\zlib</Filter>
+    </ClInclude>
+    <ClInclude Include="glpng\zlib\zlib.h">
+      <Filter>glpng\zlib</Filter>
+    </ClInclude>
+    <ClInclude Include="glpng\zlib\zutil.h">
+      <Filter>glpng\zlib</Filter>
+    </ClInclude>
+    <ClInclude Include="glpng\png\png.h">
+      <Filter>glpng\png</Filter>
+    </ClInclude>
+    <ClInclude Include="glpng\png\pngconf.h">
+      <Filter>glpng\png</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

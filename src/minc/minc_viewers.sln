@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "minc_viewers", "minc_viewers.vcxproj", "{1BD3DF3C-A750-4F54-B3C2-6C4E0B7AB008}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BD3DF3C-A750-4F54-B3C2-6C4E0B7AB008}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1BD3DF3C-A750-4F54-B3C2-6C4E0B7AB008}.Debug|Win32.Build.0 = Debug|Win32
+		{1BD3DF3C-A750-4F54-B3C2-6C4E0B7AB008}.Release|Win32.ActiveCfg = Release|Win32
+		{1BD3DF3C-A750-4F54-B3C2-6C4E0B7AB008}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

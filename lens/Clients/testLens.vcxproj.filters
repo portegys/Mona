@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Client">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Src">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="TclTk">
+      <UniqueIdentifier>{176a05e1-f50b-4bc4-9c49-9a699341dd4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TclTk\include">
+      <UniqueIdentifier>{3b340486-b456-49bf-aedf-cd047d5451bb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="testLens.cpp">
+      <Filter>Client</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\act.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\command.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\connect.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\connectCom.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\control.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\example.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\exampleCom.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\extension.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\library.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\network.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\networkCom.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\object.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\objectCom.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\parallel.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\parallelCom.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\train.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\trainCom.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\type.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\util.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\TclTk\include\tcl.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\TclTk\include\tclDecls.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\TclTk\include\tclInt.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\TclTk\include\tclIntDecls.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\TclTk\include\tk.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\TclTk\include\tkCanvas.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\TclTk\include\tkDecls.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\TclTk\include\tkInt.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\TclTk\include\tkIntDecls.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\TclTk\include\tkPort.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\TclTk\include\tkWinPort.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\act.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\command.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\connect.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\control.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\defaults.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\example.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\extension.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\lens.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\network.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\object.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\parallel.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\sysext.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\system.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\train.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\type.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\util.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

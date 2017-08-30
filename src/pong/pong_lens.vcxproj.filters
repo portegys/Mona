@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="lens">
+      <UniqueIdentifier>{929086ff-7a60-43a7-83eb-f1279a72454a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lens\Src">
+      <UniqueIdentifier>{10f296c6-8cbe-4596-88c9-5551accfcdbf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lens\TclTk">
+      <UniqueIdentifier>{c253a75c-ad9b-4a31-90c2-b9cc13dbcb2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lens\TclTk\include">
+      <UniqueIdentifier>{da36a337-1495-44af-8013-aaced3f49e49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="pong">
+      <UniqueIdentifier>{9f871ad2-f320-4b27-9e02-38b001858a6b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\lens\TclTk\include\tcl.h">
+      <Filter>lens\TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\TclTk\include\tclDecls.h">
+      <Filter>lens\TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\TclTk\include\tclInt.h">
+      <Filter>lens\TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\TclTk\include\tclIntDecls.h">
+      <Filter>lens\TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\TclTk\include\tk.h">
+      <Filter>lens\TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\TclTk\include\tkCanvas.h">
+      <Filter>lens\TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\TclTk\include\tkDecls.h">
+      <Filter>lens\TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\TclTk\include\tkInt.h">
+      <Filter>lens\TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\TclTk\include\tkIntDecls.h">
+      <Filter>lens\TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\TclTk\include\tkPort.h">
+      <Filter>lens\TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\TclTk\include\tkWinPort.h">
+      <Filter>lens\TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\Src\act.h">
+      <Filter>lens\Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\Src\canvRect.h">
+      <Filter>lens\Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\Src\command.h">
+      <Filter>lens\Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\Src\connect.h">
+      <Filter>lens\Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\Src\control.h">
+      <Filter>lens\Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\Src\defaults.h">
+      <Filter>lens\Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\Src\display.h">
+      <Filter>lens\Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\Src\example.h">
+      <Filter>lens\Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\Src\extension.h">
+      <Filter>lens\Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\Src\graph.h">
+      <Filter>lens\Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\Src\lens.h">
+      <Filter>lens\Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\Src\network.h">
+      <Filter>lens\Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\Src\object.h">
+      <Filter>lens\Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\Src\parallel.h">
+      <Filter>lens\Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\Src\sysext.h">
+      <Filter>lens\Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\Src\system.h">
+      <Filter>lens\Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\Src\tkCanvas.h">
+      <Filter>lens\Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\Src\train.h">
+      <Filter>lens\Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\Src\type.h">
+      <Filter>lens\Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\lens\Src\util.h">
+      <Filter>lens\Src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\lens\Src\act.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lens\Src\canvRect.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lens\Src\command.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lens\Src\connect.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lens\Src\connectCom.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lens\Src\control.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lens\Src\display.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lens\Src\displayCom.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lens\Src\example.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lens\Src\exampleCom.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lens\Src\extension.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lens\Src\graph.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lens\Src\graphCom.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lens\Src\library.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lens\Src\network.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lens\Src\networkCom.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lens\Src\object.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lens\Src\objectCom.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lens\Src\parallel.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lens\Src\parallelCom.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lens\Src\train.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lens\Src\trainCom.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lens\Src\type.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\lens\Src\util.c">
+      <Filter>lens\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="pongLens.cpp">
+      <Filter>pong</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\lens\Src\auto.tcl">
+      <Filter>lens\Src</Filter>
+    </None>
+    <None Include="..\..\lens\Src\button.tcl">
+      <Filter>lens\Src</Filter>
+    </None>
+    <None Include="..\..\lens\Src\console.tcl">
+      <Filter>lens\Src</Filter>
+    </None>
+    <None Include="..\..\lens\Src\display.tcl">
+      <Filter>lens\Src</Filter>
+    </None>
+    <None Include="..\..\lens\Src\entry.tcl">
+      <Filter>lens\Src</Filter>
+    </None>
+    <None Include="..\..\lens\Src\file.tcl">
+      <Filter>lens\Src</Filter>
+    </None>
+    <None Include="..\..\lens\Src\fileselect.tcl">
+      <Filter>lens\Src</Filter>
+    </None>
+    <None Include="..\..\lens\Src\graph.tcl">
+      <Filter>lens\Src</Filter>
+    </None>
+    <None Include="..\..\lens\Src\init.tcl">
+      <Filter>lens\Src</Filter>
+    </None>
+    <None Include="..\..\lens\Src\interface.tcl">
+      <Filter>lens\Src</Filter>
+    </None>
+    <None Include="..\..\lens\Src\lensrc.tcl">
+      <Filter>lens\Src</Filter>
+    </None>
+    <None Include="..\..\lens\Src\listbox.tcl">
+      <Filter>lens\Src</Filter>
+    </None>
+    <None Include="..\..\lens\Src\menu.tcl">
+      <Filter>lens\Src</Filter>
+    </None>
+    <None Include="..\..\lens\Src\object.tcl">
+      <Filter>lens\Src</Filter>
+    </None>
+    <None Include="..\..\lens\Src\scale.tcl">
+      <Filter>lens\Src</Filter>
+    </None>
+    <None Include="..\..\lens\Src\scrlbar.tcl">
+      <Filter>lens\Src</Filter>
+    </None>
+    <None Include="..\..\lens\Src\shell.tcl">
+      <Filter>lens\Src</Filter>
+    </None>
+    <None Include="..\..\lens\Src\text.tcl">
+      <Filter>lens\Src</Filter>
+    </None>
+    <None Include="..\..\lens\Src\tk.tcl">
+      <Filter>lens\Src</Filter>
+    </None>
+  </ItemGroup>
+</Project>

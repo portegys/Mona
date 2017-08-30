@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Src">
+      <UniqueIdentifier>{10f296c6-8cbe-4596-88c9-5551accfcdbf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TclTk">
+      <UniqueIdentifier>{c253a75c-ad9b-4a31-90c2-b9cc13dbcb2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TclTk\include">
+      <UniqueIdentifier>{da36a337-1495-44af-8013-aaced3f49e49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Client">
+      <UniqueIdentifier>{c346cb96-a6b3-4af8-9191-53b7e4cfdb20}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\TclTk\include\tcl.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\TclTk\include\tclDecls.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\TclTk\include\tclInt.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\TclTk\include\tclIntDecls.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\TclTk\include\tk.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\TclTk\include\tkCanvas.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\TclTk\include\tkDecls.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\TclTk\include\tkInt.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\TclTk\include\tkIntDecls.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\TclTk\include\tkPort.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\TclTk\include\tkWinPort.h">
+      <Filter>TclTk\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\act.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\command.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\connect.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\control.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\defaults.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\example.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\extension.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\lens.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\network.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\object.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\parallel.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\sysext.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\system.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\train.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\type.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\util.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\common\common.h">
+      <Filter>Client</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\common\fileio.h">
+      <Filter>Client</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\common\random.hpp">
+      <Filter>Client</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\minc\Tmaze.hpp">
+      <Filter>Client</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\minc\TmazeGrammar.hpp">
+      <Filter>Client</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Src\act.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\command.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\connect.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\connectCom.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\control.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\example.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\exampleCom.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\extension.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\library.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\network.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\networkCom.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\object.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\objectCom.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\parallel.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\parallelCom.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\train.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\trainCom.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\type.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\util.c">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="learnTmaze.cpp">
+      <Filter>Client</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\common\fileio.cpp">
+      <Filter>Client</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\common\random.cpp">
+      <Filter>Client</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\minc\TmazeGrammar.cpp">
+      <Filter>Client</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\minc\Tmaze.cpp">
+      <Filter>Client</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

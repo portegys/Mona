@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mona_main", "mona_main.vcxproj", "{58CEE92F-F667-483F-952D-1B92AB8B6DFC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mona_cs_dll", "mona_cs_dll.vcxproj", "{B3746F26-576F-4950-9490-9D00F9591C23}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mona_java", "mona_java.vcxproj", "{4C277D42-2412-4F90-A177-F7E308A7801A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mona_lib", "mona_lib.vcxproj", "{E02DEBDE-785C-4241-A4F7-FE9CE1501815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58CEE92F-F667-483F-952D-1B92AB8B6DFC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{58CEE92F-F667-483F-952D-1B92AB8B6DFC}.Debug|Win32.Build.0 = Debug|Win32
+		{58CEE92F-F667-483F-952D-1B92AB8B6DFC}.Release|Win32.ActiveCfg = Release|Win32
+		{58CEE92F-F667-483F-952D-1B92AB8B6DFC}.Release|Win32.Build.0 = Release|Win32
+		{B3746F26-576F-4950-9490-9D00F9591C23}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B3746F26-576F-4950-9490-9D00F9591C23}.Debug|Win32.Build.0 = Debug|Win32
+		{B3746F26-576F-4950-9490-9D00F9591C23}.Release|Win32.ActiveCfg = Release|Win32
+		{B3746F26-576F-4950-9490-9D00F9591C23}.Release|Win32.Build.0 = Release|Win32
+		{4C277D42-2412-4F90-A177-F7E308A7801A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4C277D42-2412-4F90-A177-F7E308A7801A}.Debug|Win32.Build.0 = Debug|Win32
+		{4C277D42-2412-4F90-A177-F7E308A7801A}.Release|Win32.ActiveCfg = Release|Win32
+		{4C277D42-2412-4F90-A177-F7E308A7801A}.Release|Win32.Build.0 = Release|Win32
+		{E02DEBDE-785C-4241-A4F7-FE9CE1501815}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E02DEBDE-785C-4241-A4F7-FE9CE1501815}.Debug|Win32.Build.0 = Debug|Win32
+		{E02DEBDE-785C-4241-A4F7-FE9CE1501815}.Release|Win32.ActiveCfg = Release|Win32
+		{E02DEBDE-785C-4241-A4F7-FE9CE1501815}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

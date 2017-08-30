@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\src\common\common.h" />
+    <ClInclude Include="..\..\src\common\fileio.h" />
+    <ClInclude Include="..\..\src\common\random.hpp" />
+    <ClInclude Include="..\..\src\minc\Tmaze.hpp" />
+    <ClInclude Include="..\..\src\minc\TmazeGrammar.hpp" />
+    <ClInclude Include="..\Src\act.h" />
+    <ClInclude Include="..\Src\command.h" />
+    <ClInclude Include="..\Src\connect.h" />
+    <ClInclude Include="..\Src\control.h" />
+    <ClInclude Include="..\Src\defaults.h" />
+    <ClInclude Include="..\Src\example.h" />
+    <ClInclude Include="..\Src\extension.h" />
+    <ClInclude Include="..\Src\lens.h" />
+    <ClInclude Include="..\Src\network.h" />
+    <ClInclude Include="..\Src\object.h" />
+    <ClInclude Include="..\Src\parallel.h" />
+    <ClInclude Include="..\Src\sysext.h" />
+    <ClInclude Include="..\Src\system.h" />
+    <ClInclude Include="..\Src\train.h" />
+    <ClInclude Include="..\Src\type.h" />
+    <ClInclude Include="..\Src\util.h" />
+    <ClInclude Include="..\TclTk\include\tcl.h" />
+    <ClInclude Include="..\TclTk\include\tclDecls.h" />
+    <ClInclude Include="..\TclTk\include\tclInt.h" />
+    <ClInclude Include="..\TclTk\include\tclIntDecls.h" />
+    <ClInclude Include="..\TclTk\include\tk.h" />
+    <ClInclude Include="..\TclTk\include\tkCanvas.h" />
+    <ClInclude Include="..\TclTk\include\tkDecls.h" />
+    <ClInclude Include="..\TclTk\include\tkInt.h" />
+    <ClInclude Include="..\TclTk\include\tkIntDecls.h" />
+    <ClInclude Include="..\TclTk\include\tkPort.h" />
+    <ClInclude Include="..\TclTk\include\tkWinPort.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\src\common\fileio.cpp" />
+    <ClCompile Include="..\..\src\common\random.cpp" />
+    <ClCompile Include="..\..\src\minc\Tmaze.cpp" />
+    <ClCompile Include="..\..\src\minc\TmazeGrammar.cpp" />
+    <ClCompile Include="learnTmaze.cpp" />
+    <ClCompile Include="..\Src\act.c" />
+    <ClCompile Include="..\Src\command.c" />
+    <ClCompile Include="..\Src\connect.c" />
+    <ClCompile Include="..\Src\connectCom.c" />
+    <ClCompile Include="..\Src\control.c" />
+    <ClCompile Include="..\Src\example.c" />
+    <ClCompile Include="..\Src\exampleCom.c" />
+    <ClCompile Include="..\Src\extension.c" />
+    <ClCompile Include="..\Src\library.c" />
+    <ClCompile Include="..\Src\network.c" />
+    <ClCompile Include="..\Src\networkCom.c" />
+    <ClCompile Include="..\Src\object.c" />
+    <ClCompile Include="..\Src\objectCom.c" />
+    <ClCompile Include="..\Src\parallel.c" />
+    <ClCompile Include="..\Src\parallelCom.c" />
+    <ClCompile Include="..\Src\train.c" />
+    <ClCompile Include="..\Src\trainCom.c" />
+    <ClCompile Include="..\Src\type.c" />
+    <ClCompile Include="..\Src\util.c" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{58CEE92F-F667-483F-952D-1B92AB8B6DFC}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.CPP.UpgradeFromVC71.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.CPP.UpgradeFromVC71.props" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.30319.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">..\Bin\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Debug\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</LinkIncremental>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">..\Bin\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Release\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkIncremental>
+    <EmbedManifest Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</EmbedManifest>
+    <CodeAnalysisRuleSet Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRules Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />
+    <CodeAnalysisRuleAssemblies Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />
+    <CodeAnalysisRuleSet Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRules Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />
+    <CodeAnalysisRuleAssemblies Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">learnTmaze</TargetName>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">learnTmaze</TargetName>
+    <ExecutablePath Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(ExecutablePath)</ExecutablePath>
+    <ExecutablePath Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(ExecutablePath)</ExecutablePath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;VERSION=2.63;NO_TK;_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <AdditionalIncludeDirectories>C:\Tcl\include;..\TclTk\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <OutputFile>..\Bin\learnTmaze.exe</OutputFile>
+      <IgnoreSpecificDefaultLibraries>libcd.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ProgramDatabaseFile>..\Bin\learnTmaze.pdb</ProgramDatabaseFile>
+      <SubSystem>Console</SubSystem>
+      <RandomizedBaseAddress>false</RandomizedBaseAddress>
+      <DataExecutionPrevention>
+      </DataExecutionPrevention>
+      <TargetMachine>MachineX86</TargetMachine>
+      <AdditionalLibraryDirectories>C:\Tcl\lib;</AdditionalLibraryDirectories>
+      <AdditionalDependencies>tcl85.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <PostBuildEvent>
+      <Command>
+      </Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <PreprocessorDefinitions>WIN32;VERSION=2.63;NO_TK;NDEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <AdditionalIncludeDirectories>C:\Tcl\include;..\TclTk\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <OutputFile>..\Bin\learnTmaze.exe</OutputFile>
+      <IgnoreSpecificDefaultLibraries>libc.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Console</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <RandomizedBaseAddress>false</RandomizedBaseAddress>
+      <DataExecutionPrevention>
+      </DataExecutionPrevention>
+      <TargetMachine>MachineX86</TargetMachine>
+      <AdditionalLibraryDirectories>C:\Tcl\lib;</AdditionalLibraryDirectories>
+      <AdditionalDependencies>tcl85.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <PostBuildEvent>
+      <Command>
+      </Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
