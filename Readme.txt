@@ -8,7 +8,7 @@ Projects included:
    http://tom.portegys.com/research.html#muzz
 2. Maze-learning mouse.
 3. The Minc T-maze world. A T-maze is generated from a grammar. 
-   http://tom.portegys.com/research.html#muzz
+   http://tom.portegys.com/research.html#minc
 4. The Pong game world.
    http://tom.portegys.com/research.html#pong
 5. Atani simulated robot using Microsoft Robotics Studio (see atani/Readme.txt).
