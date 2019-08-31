@@ -1,32 +1,46 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30501.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pong_world", "pong_world.vcxproj", "{281F1E4D-AB7D-42D1-BED5-956593CF56C3}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pong_java", "pong_java.vcxproj", "{7881CC6D-96D8-4645-8BAA-E12D419381D5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pong_lens", "pong_lens.vcxproj", "{E08835C2-AF63-511F-E540-E42607E6C7DB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pong_lens", "pong_lens.vcxproj", "{4AEEE92D-3D68-416A-98AD-201FCB9A93F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
 		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{281F1E4D-AB7D-42D1-BED5-956593CF56C3}.Debug|Win32.ActiveCfg = Debug|Win32
 		{281F1E4D-AB7D-42D1-BED5-956593CF56C3}.Debug|Win32.Build.0 = Debug|Win32
+		{281F1E4D-AB7D-42D1-BED5-956593CF56C3}.Debug|x64.ActiveCfg = Debug|x64
+		{281F1E4D-AB7D-42D1-BED5-956593CF56C3}.Debug|x64.Build.0 = Debug|x64
 		{281F1E4D-AB7D-42D1-BED5-956593CF56C3}.Release|Win32.ActiveCfg = Release|Win32
 		{281F1E4D-AB7D-42D1-BED5-956593CF56C3}.Release|Win32.Build.0 = Release|Win32
+		{281F1E4D-AB7D-42D1-BED5-956593CF56C3}.Release|x64.ActiveCfg = Release|x64
+		{281F1E4D-AB7D-42D1-BED5-956593CF56C3}.Release|x64.Build.0 = Release|x64
 		{7881CC6D-96D8-4645-8BAA-E12D419381D5}.Debug|Win32.ActiveCfg = Debug|Win32
 		{7881CC6D-96D8-4645-8BAA-E12D419381D5}.Debug|Win32.Build.0 = Debug|Win32
+		{7881CC6D-96D8-4645-8BAA-E12D419381D5}.Debug|x64.ActiveCfg = Debug|x64
+		{7881CC6D-96D8-4645-8BAA-E12D419381D5}.Debug|x64.Build.0 = Debug|x64
 		{7881CC6D-96D8-4645-8BAA-E12D419381D5}.Release|Win32.ActiveCfg = Release|Win32
 		{7881CC6D-96D8-4645-8BAA-E12D419381D5}.Release|Win32.Build.0 = Release|Win32
-		{E08835C2-AF63-511F-E540-E42607E6C7DB}.Debug|Win32.ActiveCfg = Debug|Win32
-		{E08835C2-AF63-511F-E540-E42607E6C7DB}.Debug|Win32.Build.0 = Debug|Win32
-		{E08835C2-AF63-511F-E540-E42607E6C7DB}.Release|Win32.ActiveCfg = Release|Win32
-		{E08835C2-AF63-511F-E540-E42607E6C7DB}.Release|Win32.Build.0 = Release|Win32
+		{7881CC6D-96D8-4645-8BAA-E12D419381D5}.Release|x64.ActiveCfg = Release|x64
+		{7881CC6D-96D8-4645-8BAA-E12D419381D5}.Release|x64.Build.0 = Release|x64
+		{4AEEE92D-3D68-416A-98AD-201FCB9A93F0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4AEEE92D-3D68-416A-98AD-201FCB9A93F0}.Debug|Win32.Build.0 = Debug|Win32
+		{4AEEE92D-3D68-416A-98AD-201FCB9A93F0}.Debug|x64.ActiveCfg = Debug|x64
+		{4AEEE92D-3D68-416A-98AD-201FCB9A93F0}.Debug|x64.Build.0 = Debug|x64
+		{4AEEE92D-3D68-416A-98AD-201FCB9A93F0}.Release|Win32.ActiveCfg = Release|Win32
+		{4AEEE92D-3D68-416A-98AD-201FCB9A93F0}.Release|Win32.Build.0 = Release|Win32
+		{4AEEE92D-3D68-416A-98AD-201FCB9A93F0}.Release|x64.ActiveCfg = Release|x64
+		{4AEEE92D-3D68-416A-98AD-201FCB9A93F0}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

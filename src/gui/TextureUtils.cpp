@@ -1301,7 +1301,7 @@ qTable         qtable[4];
 unsigned int xblock, yblock, blockx, blocky,
              bsize, restartInt, bfree,
              dt;
-unsigned char *data, *bpos  , *dend,
+unsigned char *buf, *bpos  , *dend,
               eof  , ssStart, ssEnd,
               sbits, prec   , ncomp;
 float dctt[64];
@@ -1322,15 +1322,15 @@ int zigzag[64]=
 char fileOpen(const char *filename)
 {
   FILE *stream;
-  data = NULL;
+  buf = NULL;
   if((stream=fopen(filename, "rb"))==NULL)
     return 0;
   else{
     fseek(stream, 0, SEEK_END);
     bsize = ftell(stream);
     fseek(stream, 0, SEEK_SET);
-    data = new unsigned char[bsize];
-    if (fread(data, 1, bsize, stream) != bsize)
+    buf = new unsigned char[bsize];
+    if (fread(buf, 1, bsize, stream) != bsize)
     {
       Logger::writeErrorLog(std::string("Error reading data for file -> ") + filename);
     }
@@ -1341,8 +1341,8 @@ char fileOpen(const char *filename)
 
 void fileClose(void)
 {
-  if(data)
-    delete[] data;
+  if(buf)
+    delete[] buf;
 }
 
 unsigned char getByte(void)
@@ -1864,7 +1864,7 @@ int Image::decodeJPG()
   unsigned char a, hdr=0, scan=0;
 
   eof=0;
-  bpos=data;
+  bpos=buf;
   dend=bpos+bsize;
   w=((getByte()<<8)+getByte());
 

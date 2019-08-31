@@ -398,7 +398,7 @@ void Minc::save(FILE *fp)
    FWRITE_INT(&intervals, fp);
    if (lensNet != NULL)
    {
-      i = strlen(lensNet);
+      i = (int)strlen(lensNet);
       FWRITE_INT(&i, fp);
       FWRITE_STRING(lensNet, i, fp);
    }

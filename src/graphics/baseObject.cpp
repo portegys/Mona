@@ -44,8 +44,8 @@ void BaseObject::drawAxes(GLfloat span)
    // Set marking parameters.
    numhash = 10;
    d       = span / numhash;
-   f       = span * 0.05;
-   o       = span + 0.00025;
+   f       = span * 0.05f;
+   o       = span + 0.00025f;
 
    // Transform.
    glMatrixMode(GL_MODELVIEW);

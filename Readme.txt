@@ -2,28 +2,27 @@ This directory contains the Mona neural network, version 5.2.
 See the white paper at http://tom.portegys.com/research/MonaWhitepaper.pdf
 For conditions of distribution and use, see the license in src/mona/mona.hpp.
 
-Release notes:
-
-The Pong game world:
-An environment that features both unpredictable events and sequential actions.
-These features are manifested in a nondeterministic finite automaton.
-
 Projects included:
 
-1. The Muzz world, a 3D environment of blocks and ramps.
+1. The Muzz world, a 3D environment of blocks and ramps. 
+   http://tom.portegys.com/research.html#muzz
 2. Maze-learning mouse.
-3. The Minc T-maze world. A T-maze is generated from a grammar.
+3. The Minc T-maze world. A T-maze is generated from a grammar. 
+   http://tom.portegys.com/research.html#muzz
 4. The Pong game world.
+   http://tom.portegys.com/research.html#pong
 5. Atani simulated robot using Microsoft Robotics Studio (see atani/Readme.txt).
+   http://tom.portegys.com/research.html#atani
 6. Lego Mindstorms NXT robot driver using LeJOS NXJ OS (see legoNXT/Readme.txt).
 7. Mox world: Mona creatures evolving in a Conway's Game of Life cellular automaton
    environment (see mox/Readme.txt).
+   http://tom.portegys.com/research.html#mox
 
 Required packages:
 
 The UNIX/Cygwin version requires the C++ compiler and make commands.
-The Windows version requires Microsoft Visual Studio 2013 (or later).
-The Muzz world requires the OpenGL graphics and the GLUT packages.
+The Windows version requires Microsoft Visual Studio 2015 (or later).
+The Muzz world requires the OpenGL graphics and the glut/freeglut packages.
 The Mona jar with JNI library, Minc T-maze viewer, Pong game app
 and the maze-learning mouse require Java.
 The Mona C# dll requires Visual C#.
@@ -148,7 +147,7 @@ Run socker on port 7671 to launch mona on connect:
 socker 7671 $MONA_HOME/bin/mona
 Note: kill socker command when finished to free port and avoid security risk.
 2. Edit maze_mouse.html and set ServerHost (and ServerPort if needed).
-3. Run applet from maze_mouse.html. Instructions are on the web page.
+3. Run appletviewer on maze_mouse.html. Instructions are on the web page.
 
 Application:
 java -Djava.library.path=$MONA_HOME/bin (Windows) or $MONA_HOME/lib (UNIX)

@@ -65,46 +65,13 @@ inline int getClosestPowerOfTwo(int digit)
 
   return (frac < 0.5) ? (int)pow(2.0, flog2) : (int)pow(2.0, flog2 + 1.0);
 }
-#ifdef WIN32
-inline float fastSquareRoot(float x)
-{
-  __asm{
-    fld x;
-    fsqrt;
-    fstp x;
-  }
-  return x;
-}
 
-
-inline float fastCos(float x)
-{
-  __asm{
-    fld x;
-    fcos;
-    fstp x;
-  }
-  return x;
-}
-
-inline float fastSin(float x)
-{
-  __asm{
-    fld x;
-    fsin;
-    fstp x;
-  }
-  return x;
-}
-
-#else
 inline float fastSin(float x)
 { return sin(x);}
 inline float fastCos(float x)
 { return cos(x);}
 inline float fastSquareRoot(float x)
 { return sqrt(x);}
-#endif
 
 
 /*inline float fastSquareRootSSE(float f)	{

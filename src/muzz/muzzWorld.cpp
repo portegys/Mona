@@ -276,7 +276,7 @@ int  ManualResponse     = INVALID_RESPONSE;
 // 2D functions.
 void helpInfo(int viewport), drawPartitions();
 void enter2Dmode(), exit2Dmode();
-void draw2Dstring(GLfloat x, GLfloat y, void *font, char *string);
+void draw2Dstring(int x, int y, void *font, char *string);
 void enter2DMode(int width, int height), exit2DMode();
 
 // Save muzz world to file.
@@ -1583,7 +1583,7 @@ void displayTerrainView(void)
 // Display the controls view.
 void displayControls(void)
 {
-   int   vw, vh;
+   GLint   vw, vh;
    GLint viewport[4];
    char  buf[100];
 
@@ -2048,8 +2048,8 @@ void configureViewports()
    }
 
    // Set GUI frame dimensions.
-   guiFrame->setDimensions(Viewports[CONTROLS_VIEWPORT].width,
-                           Viewports[CONTROLS_VIEWPORT].height);
+   guiFrame->setDimensions((float)Viewports[CONTROLS_VIEWPORT].width,
+                           (float)Viewports[CONTROLS_VIEWPORT].height);
    guiFrame->forceUpdate(true);
 }
 
@@ -2628,13 +2628,13 @@ void drawPartitions()
    glBegin(GL_LINES);
    if ((Mode == HELP_MODE) || (ViewSelection == VIEW_BOTH))
    {
-      glVertex2f(Viewports[MUZZ_HELP_VIEWPORT].width, 0);
-      glVertex2f(Viewports[MUZZ_HELP_VIEWPORT].width, Viewports[MUZZ_HELP_VIEWPORT].height);
+      glVertex2f((GLfloat)Viewports[MUZZ_HELP_VIEWPORT].width, 0.0f);
+      glVertex2f((GLfloat)Viewports[MUZZ_HELP_VIEWPORT].width, (GLfloat)Viewports[MUZZ_HELP_VIEWPORT].height);
    }
-   glVertex2f(0, Viewports[MUZZ_HELP_VIEWPORT].height);
-   glVertex2f(WindowWidth, Viewports[MUZZ_HELP_VIEWPORT].height);
-   glVertex2f(Viewports[MUZZ_STATUS_VIEWPORT].x, Viewports[MUZZ_HELP_VIEWPORT].height);
-   glVertex2f(Viewports[MUZZ_STATUS_VIEWPORT].x, WindowHeight);
+   glVertex2f(0.0f, (GLfloat)Viewports[MUZZ_HELP_VIEWPORT].height);
+   glVertex2f((GLfloat)WindowWidth, (GLfloat)Viewports[MUZZ_HELP_VIEWPORT].height);
+   glVertex2f((GLfloat)Viewports[MUZZ_STATUS_VIEWPORT].x, (GLfloat)Viewports[MUZZ_HELP_VIEWPORT].height);
+   glVertex2f((GLfloat)Viewports[MUZZ_STATUS_VIEWPORT].x, (GLfloat)WindowHeight);
    glEnd();
 
    exit2Dmode();
@@ -2661,7 +2661,7 @@ void enter2Dmode()
    glScalef(1, -1, 1);
 
    // Move the origin from the bottom left corner to the upper left corner.
-   glTranslatef(0, -viewport[3], 0);
+   glTranslatef(0.0f, (GLfloat)(-viewport[3]), 0.0f);
 
    glMatrixMode(GL_MODELVIEW);
    glPushMatrix();
@@ -2679,11 +2679,11 @@ void exit2Dmode()
 
 
 // Print string on screen at specified location.
-void draw2Dstring(GLfloat x, GLfloat y, void *font, char *string)
+void draw2Dstring(int x, int y, void *font, char *string)
 {
    char *c;
 
-   glRasterPos2f(x, y);
+   glRasterPos2f((GLfloat)x, (GLfloat)y);
    for (c = string; *c != '\0'; c++)
    {
       glutBitmapCharacter(font, *c);
@@ -2829,7 +2829,7 @@ void initMuzzWorld()
       {
          for (j = 0; j < 3; j++)
          {
-            color[j] = objectRandomizer->RAND_INTERVAL(0.0, 1.0);
+            color[j] = (float)objectRandomizer->RAND_INTERVAL(0.0, 1.0);
          }
          Muzzes[i] = new Muzz(color, Terrain, objectRandomizer->RAND(), Randomizer);
          assert(Muzzes[i] != NULL);
@@ -3710,30 +3710,6 @@ int main(int argc, char *argv[])
 
 #if (CHECK_MEMORY == 1)
    {
-#endif
-
-#ifdef WIN32
-   // Attach to parent console?
-   if (_isatty(1))
-   {
-      for (i = 1; i < argc; i++)
-      {
-         if (strcmp(argv[i], "-attachConsole") == 0)
-         {
-            break;
-         }
-      }
-      if (i < argc)
-      {
-         FreeConsole();
-         if (AttachConsole(ATTACH_PARENT_PROCESS))
-         {
-            freopen("CONOUT$", "w", stdout);
-            freopen("CONOUT$", "w", stderr);
-            freopen("CONIN$", "r", stdin);
-         }
-      }
-   }
 #endif
 
    // Process glut args.
