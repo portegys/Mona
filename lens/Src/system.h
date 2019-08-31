@@ -44,7 +44,9 @@ typedef unsigned int flag; /* a boolean.  This is an int because I use
 #endif /* MACHINE_INTEL */
 
 #ifdef MACHINE_LINUX
+/*
 #  include <bits/nan.h>
+*/
 #  ifndef LITTLE_END
 #    define LITTLE_END
 #  endif /* LITTLE_END */

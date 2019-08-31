@@ -552,7 +552,7 @@ bool Texture::createNoise3D(const char* name, GLuint size)
   glTexParameterf(target, GL_TEXTURE_WRAP_R, GL_REPEAT);
   glTexParameterf(target, GL_TEXTURE_MAG_FILTER, GL_LINEAR);
   glTexParameterf(target, GL_TEXTURE_MIN_FILTER, GL_LINEAR);
-  glTexImage3DEXT(target, 0, GL_RGBA,
+  glTexImage3D(target, 0, GL_RGBA,
                   size, size, size,
                   0, GL_RGBA, GL_UNSIGNED_BYTE, noise3DBuffer);
   deleteArray(noise3DBuffer);
@@ -922,7 +922,7 @@ bool Texture::loadTextureFace(const  Image &image,
           glTexParameteri(quickFix, GL_GENERATE_MIPMAP_SGIS, GL_TRUE);
         }
 
-        glCompressedTexImage2DARB(target,
+        glCompressedTexImage2D(target,
                                   0,
                                   GL_COMPRESSED_RGBA_S3TC_DXT5_EXT,
                                   image.getWidth(), image.getHeight(),
@@ -948,7 +948,7 @@ bool Texture::loadTextureFace(const  Image &image,
           glTexParameteri(quickFix, GL_GENERATE_MIPMAP_SGIS, GL_TRUE);
         }
 
-        glCompressedTexImage2DARB(target,
+        glCompressedTexImage2D(target,
                                   0,
                                   GL_COMPRESSED_RGBA_S3TC_DXT3_EXT,
                                   image.getWidth(), image.getHeight(),
@@ -973,7 +973,7 @@ bool Texture::loadTextureFace(const  Image &image,
           glTexParameteri(quickFix, GL_GENERATE_MIPMAP_SGIS, GL_TRUE);
         }
 
-        glCompressedTexImage2DARB(target,
+        glCompressedTexImage2D(target,
                                   0,
                                   GL_COMPRESSED_RGBA_S3TC_DXT1_EXT,
                                   image.getWidth(), image.getHeight(),
