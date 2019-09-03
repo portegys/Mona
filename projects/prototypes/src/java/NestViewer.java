@@ -82,13 +82,14 @@ public class NestViewer extends Applet implements Runnable
     static final String DEFAULT_SOURCE = "nestsource.dat";
 
     // World image dimensions.
+    static final Dimension SCREEN_SIZE = new Dimension(635, 600);
+    static final Dimension CANVAS_SIZE = new Dimension(635, 735);
+    static final Dimension STATUS_PANEL_SIZE = new Dimension(635, 100);
     static final Dimension CELL_SIZE = new Dimension(30, 30);
     static final Dimension LOCALE_SIZE = new Dimension(15, 15);
     static final Dimension OBJECT_SIZE = new Dimension(20, 20);
     static final Dimension SMALL_BIRD_SIZE = new Dimension(15, 15);
     static final Dimension BIRD_SIZE = new Dimension(80, 80);
-    static final Dimension CANVAS_SIZE = new Dimension(2000, 2000);
-    static final Dimension STATUS_PANEL_SIZE = new Dimension(600, 100);
 
     // Definitions.
 
@@ -238,7 +239,7 @@ public class NestViewer extends Applet implements Runnable
 		"disabled mediator influences the mediator's super-mediators",
 		"to enable it.",
 		"",
-		"Reference: www.itk.ilstu.edu/faculty/portegys/research.html"
+		"Reference: tom.portegys.com/research.html#mona2"
 	};
 
     // Applet information.
@@ -291,12 +292,13 @@ public class NestViewer extends Applet implements Runnable
         responseNumber[FEMALE] = 0;
 
         // Create display.
-        screenSize = getSize();
+        screenSize = SCREEN_SIZE;
+        setSize(screenSize);
         setLayout(new BorderLayout());
         canvasScroll = new ScrollPane();
-        canvas = new Canvas();
         canvasScrollSize = new Dimension(screenSize.width, (int)((double)screenSize.height * .95));
         canvasScroll.setBounds(0, 0, canvasScrollSize.width, canvasScrollSize.height);
+        canvas = new Canvas();
         canvas.setBounds(0, 0, CANVAS_SIZE.width, CANVAS_SIZE.height);
         add(canvasScroll, BorderLayout.NORTH);
         canvasScroll.add(canvas, null);
