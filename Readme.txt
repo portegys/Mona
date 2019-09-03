@@ -17,6 +17,9 @@ Projects included:
 7. Mox world: Mona creatures evolving in a Conway's Game of Life cellular automaton
    environment (see mox/Readme.txt).
    http://tom.portegys.com/research.html#mox
+8. prototypes: Foraging ant and nesting birds.
+   http://tom.portegys.com/research.html#mona1
+   http://tom.portegys.com/research.html#mona2
 
 Required packages:
 
@@ -107,6 +110,7 @@ Directories/folders:
 - Atani
 - LegoNXT
 - Mox
+- prototypes
 
 Commands:
 
