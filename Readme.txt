@@ -13,13 +13,19 @@ Projects included:
    http://tom.portegys.com/research.html#pong
 5. Atani simulated robot using Microsoft Robotics Studio (see atani/Readme.txt).
    http://tom.portegys.com/research.html#atani
-6. Lego Mindstorms NXT robot driver using LeJOS NXJ OS (see legoNXT/Readme.txt).
-7. Mox world: Mona creatures evolving in a Conway's Game of Life cellular automaton
+6. instinct: Instinct evolution with Monkey and Bananas problem.
+   http://tom.portegys.com/research.html#instinct
+7. Lego Mindstorms NXT robot driver using LeJOS NXJ OS (see legoNXT/Readme.txt).
+8. Mox world: Mona creatures evolving in a Conway's Game of Life cellular automaton
    environment (see mox/Readme.txt).
    http://tom.portegys.com/research.html#mox
-8. prototypes: Foraging ant and nesting birds.
-   http://tom.portegys.com/research.html#mona1
-   http://tom.portegys.com/research.html#mona2
+9. maze: Instinct and Learning Synergy in Simulated Foraging Using a Neural Network.
+   http://tom.portegys.com/research.html#muzz
+10. meta-maze: A Maze Learning Comparison of Elman, Long Short-Term Memory, and Mona Neural Networks.
+    http://tom.portegys.com/research.html#maze
+11. prototypes: Foraging ant and nesting birds.
+    http://tom.portegys.com/research.html#mona1
+    http://tom.portegys.com/research.html#mona2
 
 Required packages:
 
@@ -108,7 +114,10 @@ Directories/folders:
 - sounds
 5. projects/
 - Atani
+- instinct
 - LegoNXT
+- maze
+- meta-maze
 - Mox
 - prototypes
 

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="common">
+      <UniqueIdentifier>{0129163b-562c-457d-8445-cb48a19737d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="mona">
+      <UniqueIdentifier>{b54e77ea-9b3b-411e-9b0e-c65d647f6010}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="instinct">
+      <UniqueIdentifier>{e92041fb-c00c-4aa9-a26f-b6b4e81cfd3e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\common\common.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\fileio.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\log.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\random.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\valueset.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="instinct.hpp">
+      <Filter>instinct</Filter>
+    </ClInclude>
+    <ClInclude Include="monkey_and_bananas.hpp">
+      <Filter>instinct</Filter>
+    </ClInclude>
+    <ClInclude Include="..\mona\mona.hpp">
+      <Filter>mona</Filter>
+    </ClInclude>
+    <ClInclude Include="..\mona\mona-aux.hpp">
+      <Filter>mona</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\common\fileio.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\gettime.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\log.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\random.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\valueset.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="instinct.cpp">
+      <Filter>instinct</Filter>
+    </ClCompile>
+    <ClCompile Include="instinct_main.cpp">
+      <Filter>instinct</Filter>
+    </ClCompile>
+    <ClCompile Include="monkey_and_bananas.cpp">
+      <Filter>instinct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\mona\drive.cpp">
+      <Filter>mona</Filter>
+    </ClCompile>
+    <ClCompile Include="..\mona\dump.cpp">
+      <Filter>mona</Filter>
+    </ClCompile>
+    <ClCompile Include="..\mona\enable.cpp">
+      <Filter>mona</Filter>
+    </ClCompile>
+    <ClCompile Include="..\mona\learn.cpp">
+      <Filter>mona</Filter>
+    </ClCompile>
+    <ClCompile Include="..\mona\mona.cpp">
+      <Filter>mona</Filter>
+    </ClCompile>
+    <ClCompile Include="..\mona\respond.cpp">
+      <Filter>mona</Filter>
+    </ClCompile>
+    <ClCompile Include="..\mona\sense.cpp">
+      <Filter>mona</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
