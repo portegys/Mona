@@ -19,8 +19,8 @@ Projects included:
 8. Mox world: Mona creatures evolving in a Conway's Game of Life cellular automaton
    environment (see mox/Readme.txt).
    http://tom.portegys.com/research.html#mox
-9. maze: Instinct and Learning Synergy in Simulated Foraging Using a Neural Network.
-   http://tom.portegys.com/research.html#muzz
+9. maze: An Application of Context-Learning in a Goal-Seeking Neural Network.
+   http://tom.portegys.com/research.html#context2
 10. meta-maze: A Maze Learning Comparison of Elman, Long Short-Term Memory, and Mona Neural Networks.
     http://tom.portegys.com/research.html#maze
 11. prototypes: Foraging ant and nesting birds.
