@@ -1,7 +1,7 @@
 Instinct evolution with Monkey and Bananas problem.
 
 Version 3.1 features an improved learning capability, which is demonstrated using the instinct environment.
-See comments in instinct_main.cpp, and paper at tom.portegys.com/research.html#instinct for details.
+See comments in instinct_main.cpp, and paper at http://tom.portegys.com/research.html#instinct for details.
 
 To install:
 
