@@ -1,0 +1,2573 @@
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=-30599658
+instance seeds/frequencies: -30599657 (1.000000) -30599655 (1.000000) -30599654 (1.000000) -30599649 (1.000000)
+score=4007.500000
+goal paths:
+instanceSeed=-30599657
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-30599657 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-30599657 contexts: 
+Door=2
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-30599657 contexts:
+Door=1
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-30599657 contexts: 
+Door=1
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-30599657 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-30599657 contexts: 
+Door=1
+Room id=6 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-30599657 contexts: 
+Door=3
+instanceSeed=-30599655
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-30599655 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-30599655 contexts: 
+Door=2
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=-30599655 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-30599655 contexts: 
+Door=2
+Room id=6 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-30599655 contexts: 
+Door=3
+instanceSeed=-30599654
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-30599654 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-30599654 contexts: 
+Door=2
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-30599654 contexts: 
+Door=1
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-30599654 contexts: 
+Door=1
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-30599654 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-30599654 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=-30599654 contexts: 
+Door=1
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-30599654 contexts: 
+Door=2
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-30599654 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-30599654 contexts: 
+Door=1
+Room id=6 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-30599654 contexts: 
+Door=3
+instanceSeed=-30599649
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-30599649 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-30599649 contexts: 
+Door=2
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=-30599649 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-30599649 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-30599649 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-30599649 contexts: 
+Door=2
+Room id=6 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-30599649 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=-1698028785
+instance seeds/frequencies: -1698028785 (1.000000) -1698028779 (1.000000) -1698028778 (1.000000) -1698028777 (1.000000)
+score=4007.000000
+goal paths:
+instanceSeed=-1698028785
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1698028785 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1698028785 contexts: 
+Door=0
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-1698028785 contexts: 
+Door=1
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-1698028785 contexts: 
+Door=1
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=-1698028785 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-1698028785 contexts: 
+Door=2
+Room id=8 mark=3 doors: 0 0 1 goals: 1 instanceSeed=-1698028785 contexts: 
+Door=3
+instanceSeed=-1698028779
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1698028779 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-1698028779 contexts: 
+Door=0
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-1698028779 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-1698028779 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1698028779 contexts: 
+Door=1
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-1698028779 contexts: 
+Door=1
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-1698028779 contexts: 
+Door=1
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=-1698028779 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-1698028779 contexts: 
+Door=2
+Room id=8 mark=3 doors: 0 0 1 goals: 1 instanceSeed=-1698028779 contexts: 
+Door=3
+instanceSeed=-1698028778
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1698028778 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-1698028778 contexts: 
+Door=0
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-1698028778 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-1698028778 contexts: 
+Door=2
+Room id=8 mark=3 doors: 0 0 1 goals: 1 instanceSeed=-1698028778 contexts: 
+Door=3
+instanceSeed=-1698028777
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1698028777 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-1698028777 contexts: 
+Door=0
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-1698028777 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-1698028777 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-1698028777 contexts: 
+Door=2
+Room id=8 mark=3 doors: 0 0 1 goals: 1 instanceSeed=-1698028777 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=1434379369
+instance seeds/frequencies: 1434379369 (1.000000) 1434379370 (1.000000) 1434379371 (1.000000) 1434379376 (1.000000)
+score=4007.000000
+goal paths:
+instanceSeed=1434379369
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1434379369 contexts: 
+Door=1
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1434379369 contexts: 
+Door=2
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=1434379369 contexts: 
+Door=1
+Room id=4 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1434379369 contexts: 
+Door=3
+instanceSeed=1434379370
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1434379370 contexts: 
+Door=1
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=1434379370 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1434379370 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1434379370 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1434379370 contexts: 
+Door=0
+Room id=4 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1434379370 contexts: 
+Door=3
+instanceSeed=1434379371
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1434379371 contexts: 
+Door=1
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=1434379371 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1434379371 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1434379371 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=1434379371 contexts: 
+Door=1
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=1434379371 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=1434379371 contexts: 
+Door=2
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=1434379371 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=1434379371 contexts: 
+Door=1
+Room id=4 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1434379371 contexts: 
+Door=3
+instanceSeed=1434379376
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1434379376 contexts: 
+Door=1
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=1434379376 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1434379376 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1434379376 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=1434379376 contexts: 
+Door=1
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=1434379376 contexts: 
+Door=0
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=1434379376 contexts: 
+Door=1
+Room id=4 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1434379376 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=1634610457
+instance seeds/frequencies: 1634610457 (1.000000) 1634610461 (1.000000) 1634610463 (1.000000) 1634610464 (1.000000)
+score=4006.250000
+goal paths:
+instanceSeed=1634610457
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1634610457 contexts: 
+Door=1
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=1634610457 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1634610457 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=1634610457 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=1634610457 contexts: 
+Door=2
+Room id=8 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1634610457 contexts: 
+Door=3
+instanceSeed=1634610461
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1634610461 contexts: 
+Door=1
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=1634610461 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1634610461 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=1634610461 contexts: 
+Door=0
+Room id=8 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1634610461 contexts: 
+Door=3
+instanceSeed=1634610463
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1634610463 contexts: 
+Door=1
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=1634610463 contexts: 
+Door=0
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=1634610463 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1634610463 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=1634610463 contexts: 
+Door=1
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=1634610463 contexts: 
+Door=1
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=1634610463 contexts: 
+Door=2
+Room id=8 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1634610463 contexts: 
+Door=3
+instanceSeed=1634610464
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1634610464 contexts: 
+Door=1
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1634610464 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=1634610464 contexts: 
+Door=1
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=1634610464 contexts: 
+Door=1
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=1634610464 contexts: 
+Door=2
+Room id=8 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1634610464 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=1988772959
+instance seeds/frequencies: 1988772959 (1.000000) 1988772960 (1.000000) 1988772963 (1.000000) 1988772964 (1.000000)
+score=4006.250000
+goal paths:
+instanceSeed=1988772959
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1988772959 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1988772959 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=1988772959 contexts: 
+Door=0
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=1988772959 contexts: 
+Door=1
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=1988772959 contexts: 
+Door=2
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=1988772959 contexts: 
+Door=2
+Room id=5 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1988772959 contexts: 
+Door=3
+instanceSeed=1988772960
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1988772960 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1988772960 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=1988772960 contexts: 
+Door=0
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=1988772960 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=1988772960 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1988772960 contexts: 
+Door=0
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=1988772960 contexts: 
+Door=1
+Room id=5 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1988772960 contexts: 
+Door=3
+instanceSeed=1988772963
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1988772963 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1988772963 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=1988772963 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=1988772963 contexts: 
+Door=2
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=1988772963 contexts: 
+Door=2
+Room id=5 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1988772963 contexts: 
+Door=3
+instanceSeed=1988772964
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1988772964 contexts: 
+Door=1
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1988772964 contexts: 
+Door=2
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=1988772964 contexts: 
+Door=1
+Room id=5 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1988772964 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=1136691869
+instance seeds/frequencies: 1136691869 (1.000000) 1136691871 (1.000000) 1136691873 (1.000000) 1136691876 (1.000000)
+score=4006.000000
+goal paths:
+instanceSeed=1136691869
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1136691869 contexts: 
+Door=1
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1136691869 contexts: 
+Door=2
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=1136691869 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1136691869 contexts: 
+Door=1
+Room id=3 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1136691869 contexts: 
+Door=3
+instanceSeed=1136691871
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1136691871 contexts: 
+Door=1
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1136691871 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1136691871 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=1136691871 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=1136691871 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=1136691871 contexts: 
+Door=1
+Room id=3 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1136691871 contexts: 
+Door=3
+instanceSeed=1136691873
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1136691873 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1136691873 contexts: 
+Door=1
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=1136691873 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1136691873 contexts: 
+Door=1
+Room id=3 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1136691873 contexts: 
+Door=3
+instanceSeed=1136691876
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1136691876 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1136691876 contexts: 
+Door=1
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=1136691876 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1136691876 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1136691876 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=1136691876 contexts: 
+Door=1
+Room id=3 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1136691876 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=2027923144
+instance seeds/frequencies: 2027923145 (1.000000) 2027923146 (1.000000) 2027923147 (1.000000) 2027923152 (1.000000)
+score=4006.000000
+goal paths:
+instanceSeed=2027923145
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=2027923145 contexts: 
+Door=1
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=2027923145 contexts: 
+Door=2
+Room id=6 mark=3 doors: 1 1 1 goals: 1 instanceSeed=2027923145 contexts: 
+Door=3
+instanceSeed=2027923146
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=2027923146 contexts: 
+Door=1
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=2027923146 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=2027923146 contexts: 
+Door=2
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=2027923146 contexts: 
+Door=2
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=2027923146 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=2027923146 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=2027923146 contexts: 
+Door=2
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=2027923146 contexts: 
+Door=1
+Room id=6 mark=3 doors: 1 1 1 goals: 1 instanceSeed=2027923146 contexts: 
+Door=3
+instanceSeed=2027923147
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=2027923147 contexts: 
+Door=1
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=2027923147 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=2027923147 contexts: 
+Door=2
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=2027923147 contexts: 
+Door=2
+Room id=6 mark=3 doors: 1 1 1 goals: 1 instanceSeed=2027923147 contexts: 
+Door=3
+instanceSeed=2027923152
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=2027923152 contexts: 
+Door=1
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=2027923152 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=2027923152 contexts: 
+Door=0
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=2027923152 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=2027923152 contexts: 
+Door=2
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=2027923152 contexts: 
+Door=1
+Room id=6 mark=3 doors: 1 1 1 goals: 1 instanceSeed=2027923152 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=-1012064768
+instance seeds/frequencies: -1012064768 (1.000000) -1012064767 (1.000000) -1012064766 (1.000000) -1012064762 (1.000000)
+score=4005.500000
+goal paths:
+instanceSeed=-1012064768
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1012064768 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=-1012064768 contexts: 
+Door=1
+Room id=5 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1012064768 contexts: 
+Door=3
+instanceSeed=-1012064767
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1012064767 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1012064767 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-1012064767 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-1012064767 contexts: 
+Door=2
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=-1012064767 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-1012064767 contexts: 
+Door=2
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-1012064767 contexts: 
+Door=0
+Room id=5 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1012064767 contexts: 
+Door=3
+instanceSeed=-1012064766
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1012064766 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1012064766 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-1012064766 contexts: 
+Door=1
+Room id=5 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1012064766 contexts: 
+Door=3
+instanceSeed=-1012064762
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1012064762 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=-1012064762 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=-1012064762 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-1012064762 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-1012064762 contexts: 
+Door=2
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-1012064762 contexts: 
+Door=0
+Room id=5 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1012064762 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=-354245296
+instance seeds/frequencies: -354245295 (1.000000) -354245292 (1.000000) -354245288 (1.000000) -354245287 (1.000000)
+score=4005.250000
+goal paths:
+instanceSeed=-354245295
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-354245295 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-354245295 contexts: 
+Door=1
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-354245295 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-354245295 contexts: 
+Door=1
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-354245295 contexts: 
+Door=3
+instanceSeed=-354245292
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-354245292 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-354245292 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-354245292 contexts: 
+Door=1
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-354245292 contexts: 
+Door=3
+instanceSeed=-354245288
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-354245288 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-354245288 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=-354245288 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-354245288 contexts: 
+Door=1
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-354245288 contexts: 
+Door=3
+instanceSeed=-354245287
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-354245287 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-354245287 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-354245287 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-354245287 contexts: 
+Door=0
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=-354245287 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-354245287 contexts: 
+Door=1
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-354245287 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=-1594890563
+instance seeds/frequencies: -1594890563 (1.000000) -1594890559 (1.000000) -1594890558 (1.000000) -1594890557 (1.000000)
+score=4005.250000
+goal paths:
+instanceSeed=-1594890563
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1594890563 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1594890563 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1594890563 contexts: 
+Door=1
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-1594890563 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=-1594890563 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-1594890563 contexts: 
+Door=0
+Room id=2 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1594890563 contexts: 
+Door=3
+instanceSeed=-1594890559
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1594890559 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1594890559 contexts: 
+Door=0
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=-1594890559 contexts: 
+Door=1
+Room id=2 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1594890559 contexts: 
+Door=3
+instanceSeed=-1594890558
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1594890558 contexts: 
+Door=2
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=-1594890558 contexts: 
+Door=0
+Room id=2 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1594890558 contexts: 
+Door=3
+instanceSeed=-1594890557
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1594890557 contexts: 
+Door=2
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=-1594890557 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=-1594890557 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-1594890557 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=-1594890557 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-1594890557 contexts: 
+Door=0
+Room id=2 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1594890557 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=134388292
+instance seeds/frequencies: 134388293 (1.000000) 134388294 (1.000000) 134388300 (1.000000)
+score=3010.666667
+goal paths:
+instanceSeed=134388293
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=134388293 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=134388293 contexts: 
+Door=2
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=134388293 contexts: 
+Door=1
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=134388293 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=134388293 contexts: 
+Door=2
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=134388293 contexts: 
+Door=2
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=134388293 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=134388293 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=134388293 contexts: 
+Door=2
+Room id=4 mark=3 doors: 1 1 1 goals: 1 instanceSeed=134388293 contexts: 
+Door=3
+instanceSeed=134388294
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=134388294 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=134388294 contexts: 
+Door=2
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=134388294 contexts: 
+Door=2
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=134388294 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=134388294 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=134388294 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=134388294 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=134388294 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=134388294 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=134388294 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=134388294 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=134388294 contexts: 
+Door=1
+Room id=4 mark=3 doors: 1 1 1 goals: 1 instanceSeed=134388294 contexts: 
+Door=3
+instanceSeed=134388300
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=134388300 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=134388300 contexts: 
+Door=2
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=134388300 contexts: 
+Door=2
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=134388300 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=134388300 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=134388300 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=134388300 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=134388300 contexts: 
+Door=2
+Room id=4 mark=3 doors: 1 1 1 goals: 1 instanceSeed=134388300 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=-54763095
+instance seeds/frequencies: -54763094 (1.000000) -54763092 (1.000000) -54763090 (1.000000)
+score=3008.000000
+goal paths:
+instanceSeed=-54763094
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-54763094 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=-54763094 contexts: 
+Door=1
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-54763094 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-54763094 contexts: 
+Door=2
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=-54763094 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=-54763094 contexts: 
+Door=1
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-54763094 contexts: 
+Door=1
+Room id=9 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-54763094 contexts: 
+Door=3
+instanceSeed=-54763092
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-54763092 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=-54763092 contexts: 
+Door=1
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-54763092 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-54763092 contexts: 
+Door=2
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=-54763092 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=-54763092 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=-54763092 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-54763092 contexts: 
+Door=2
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-54763092 contexts: 
+Door=1
+Room id=9 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-54763092 contexts: 
+Door=3
+instanceSeed=-54763090
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-54763090 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=-54763090 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=-54763090 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-54763090 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-54763090 contexts: 
+Door=0
+Room id=9 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-54763090 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=152360063
+instance seeds/frequencies: 152360064 (1.000000) 152360066 (1.000000) 152360070 (1.000000)
+score=3007.666667
+goal paths:
+instanceSeed=152360064
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=152360064 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=152360064 contexts: 
+Door=2
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=152360064 contexts: 
+Door=1
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=152360064 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=152360064 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=152360064 contexts: 
+Door=2
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=152360064 contexts: 
+Door=0
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=152360064 contexts: 
+Door=0
+Room id=6 mark=3 doors: 1 1 1 goals: 1 instanceSeed=152360064 contexts: 
+Door=3
+instanceSeed=152360066
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=152360066 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=152360066 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=152360066 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=152360066 contexts: 
+Door=1
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=152360066 contexts: 
+Door=0
+Room id=6 mark=3 doors: 1 1 1 goals: 1 instanceSeed=152360066 contexts: 
+Door=3
+instanceSeed=152360070
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=152360070 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=152360070 contexts: 
+Door=2
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=152360070 contexts: 
+Door=1
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=152360070 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=152360070 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=152360070 contexts: 
+Door=1
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=152360070 contexts: 
+Door=0
+Room id=6 mark=3 doors: 1 1 1 goals: 1 instanceSeed=152360070 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=219989515
+instance seeds/frequencies: 219989516 (1.000000) 219989522 (1.000000) 219989524 (1.000000)
+score=3007.666667
+goal paths:
+instanceSeed=219989516
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=219989516 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=219989516 contexts: 
+Door=0
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=219989516 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=219989516 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=219989516 contexts: 
+Door=1
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=219989516 contexts: 
+Door=3
+instanceSeed=219989522
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=219989522 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=219989522 contexts: 
+Door=0
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=219989522 contexts: 
+Door=0
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=219989522 contexts: 
+Door=2
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=219989522 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=219989522 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=219989522 contexts: 
+Door=2
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=219989522 contexts: 
+Door=2
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=219989522 contexts: 
+Door=3
+instanceSeed=219989524
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=219989524 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=219989524 contexts: 
+Door=0
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=219989524 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=219989524 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=219989524 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=219989524 contexts: 
+Door=0
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=219989524 contexts: 
+Door=2
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=219989524 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=-1256458124
+instance seeds/frequencies: -1256458124 (1.000000) -1256458120 (1.000000) -1256458117 (1.000000)
+score=3007.333333
+goal paths:
+instanceSeed=-1256458124
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1256458124 contexts: 
+Door=2
+Room id=4 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1256458124 contexts: 
+Door=3
+instanceSeed=-1256458120
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1256458120 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1256458120 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-1256458120 contexts: 
+Door=1
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-1256458120 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-1256458120 contexts: 
+Door=1
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-1256458120 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=-1256458120 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-1256458120 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-1256458120 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=-1256458120 contexts: 
+Door=2
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-1256458120 contexts: 
+Door=0
+Room id=4 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1256458120 contexts: 
+Door=3
+instanceSeed=-1256458117
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1256458117 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1256458117 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-1256458117 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-1256458117 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-1256458117 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=-1256458117 contexts: 
+Door=2
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-1256458117 contexts: 
+Door=0
+Room id=4 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1256458117 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=987528160
+instance seeds/frequencies: 987528160 (1.000000) 987528163 (1.000000) 987528164 (1.000000)
+score=3007.333333
+goal paths:
+instanceSeed=987528160
+Room id=0 mark=0 doors: 1 0 0 goals: 0 instanceSeed=987528160 contexts: 
+Door=0
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=987528160 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=987528160 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=987528160 contexts: 
+Door=2
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=987528160 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=987528160 contexts: 
+Door=0
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=987528160 contexts: 
+Door=0
+Room id=5 mark=3 doors: 1 1 1 goals: 1 instanceSeed=987528160 contexts: 
+Door=3
+instanceSeed=987528163
+Room id=0 mark=0 doors: 1 0 0 goals: 0 instanceSeed=987528163 contexts: 
+Door=0
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=987528163 contexts: 
+Door=2
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=987528163 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=987528163 contexts: 
+Door=0
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=987528163 contexts: 
+Door=0
+Room id=5 mark=3 doors: 1 1 1 goals: 1 instanceSeed=987528163 contexts: 
+Door=3
+instanceSeed=987528164
+Room id=0 mark=0 doors: 1 0 0 goals: 0 instanceSeed=987528164 contexts: 
+Door=0
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=987528164 contexts: 
+Door=2
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=987528164 contexts: 
+Door=2
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=987528164 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=987528164 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=987528164 contexts: 
+Door=0
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=987528164 contexts: 
+Door=0
+Room id=5 mark=3 doors: 1 1 1 goals: 1 instanceSeed=987528164 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=-538500017
+instance seeds/frequencies: -538500014 (1.000000) -538500012 (1.000000) -538500010 (1.000000)
+score=3007.333333
+goal paths:
+instanceSeed=-538500014
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-538500014 contexts: 
+Door=0
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-538500014 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-538500014 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=-538500014 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=-538500014 contexts: 
+Door=2
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=-538500014 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=-538500014 contexts: 
+Door=0
+Room id=2 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-538500014 contexts: 
+Door=3
+instanceSeed=-538500012
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-538500012 contexts: 
+Door=0
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-538500012 contexts: 
+Door=2
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-538500012 contexts: 
+Door=1
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-538500012 contexts: 
+Door=2
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-538500012 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-538500012 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=-538500012 contexts: 
+Door=0
+Room id=2 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-538500012 contexts: 
+Door=3
+instanceSeed=-538500010
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-538500010 contexts: 
+Door=0
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-538500010 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-538500010 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=-538500010 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-538500010 contexts: 
+Door=1
+Room id=2 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-538500010 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=1969640031
+instance seeds/frequencies: 1969640032 (1.000000) 1969640034 (1.000000) 1969640036 (1.000000)
+score=3007.333333
+goal paths:
+instanceSeed=1969640032
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1969640032 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=1969640032 contexts: 
+Door=1
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=1969640032 contexts: 
+Door=2
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=1969640032 contexts: 
+Door=0
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=1969640032 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1969640032 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1969640032 contexts: 
+Door=1
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1969640032 contexts: 
+Door=3
+instanceSeed=1969640034
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1969640034 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1969640034 contexts: 
+Door=2
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=1969640034 contexts: 
+Door=1
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=1969640034 contexts: 
+Door=0
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=1969640034 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=1969640034 contexts: 
+Door=1
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=1969640034 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1969640034 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1969640034 contexts: 
+Door=1
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1969640034 contexts: 
+Door=3
+instanceSeed=1969640036
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1969640036 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=1969640036 contexts: 
+Door=1
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=1969640036 contexts: 
+Door=2
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1969640036 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=1724559453
+instance seeds/frequencies: 1724559453 (1.000000) 1724559459 (1.000000) 1724559461 (1.000000)
+score=3007.333333
+goal paths:
+instanceSeed=1724559453
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1724559453 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1724559453 contexts: 
+Door=0
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=1724559453 contexts: 
+Door=2
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=1724559453 contexts: 
+Door=0
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1724559453 contexts: 
+Door=3
+instanceSeed=1724559459
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1724559459 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1724559459 contexts: 
+Door=0
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=1724559459 contexts: 
+Door=2
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=1724559459 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=1724559459 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1724559459 contexts: 
+Door=2
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=1724559459 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=1724559459 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=1724559459 contexts: 
+Door=1
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1724559459 contexts: 
+Door=3
+instanceSeed=1724559461
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1724559461 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1724559461 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1724559461 contexts: 
+Door=1
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=1724559461 contexts: 
+Door=0
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=1724559461 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=1724559461 contexts: 
+Door=1
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1724559461 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=-150949676
+instance seeds/frequencies: -150949674 (1.000000) -150949673 (1.000000) -150949667 (1.000000)
+score=3007.000000
+goal paths:
+instanceSeed=-150949674
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-150949674 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-150949674 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-150949674 contexts: 
+Door=0
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-150949674 contexts: 
+Door=1
+Room id=8 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-150949674 contexts: 
+Door=3
+instanceSeed=-150949673
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-150949673 contexts: 
+Door=0
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-150949673 contexts: 
+Door=2
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-150949673 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-150949673 contexts: 
+Door=2
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-150949673 contexts: 
+Door=0
+Room id=8 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-150949673 contexts: 
+Door=3
+instanceSeed=-150949667
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-150949667 contexts: 
+Door=0
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-150949667 contexts: 
+Door=2
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-150949667 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-150949667 contexts: 
+Door=2
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-150949667 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-150949667 contexts: 
+Door=1
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=-150949667 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-150949667 contexts: 
+Door=0
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-150949667 contexts: 
+Door=1
+Room id=8 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-150949667 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=-7911472
+instance seeds/frequencies: -7911468 (1.000000) -7911467 (1.000000) -7911466 (1.000000)
+score=3006.666667
+goal paths:
+instanceSeed=-7911468
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-7911468 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-7911468 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-7911468 contexts: 
+Door=1
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-7911468 contexts: 
+Door=2
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-7911468 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-7911468 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=-7911468 contexts: 
+Door=0
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-7911468 contexts: 
+Door=3
+instanceSeed=-7911467
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-7911467 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-7911467 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-7911467 contexts: 
+Door=1
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-7911467 contexts: 
+Door=2
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-7911467 contexts: 
+Door=3
+instanceSeed=-7911466
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-7911466 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-7911466 contexts: 
+Door=0
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-7911466 contexts: 
+Door=1
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-7911466 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=-7911466 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-7911466 contexts: 
+Door=2
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-7911466 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=-1704871044
+instance seeds/frequencies: -1704871044 (1.000000) -1704871041 (1.000000) -1704871040 (1.000000)
+score=3006.666667
+goal paths:
+instanceSeed=-1704871044
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1704871044 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1704871044 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-1704871044 contexts: 
+Door=1
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-1704871044 contexts: 
+Door=1
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-1704871044 contexts: 
+Door=2
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=-1704871044 contexts: 
+Door=0
+Room id=2 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1704871044 contexts: 
+Door=3
+instanceSeed=-1704871041
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1704871041 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=-1704871041 contexts: 
+Door=2
+Room id=2 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1704871041 contexts: 
+Door=3
+instanceSeed=-1704871040
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1704871040 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1704871040 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1704871040 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=-1704871040 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-1704871040 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-1704871040 contexts: 
+Door=1
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-1704871040 contexts: 
+Door=1
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-1704871040 contexts: 
+Door=1
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-1704871040 contexts: 
+Door=2
+Room id=2 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1704871040 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=-422549118
+instance seeds/frequencies: -422549115 (1.000000) -422549113 (1.000000) -422549112 (1.000000)
+score=3006.333333
+goal paths:
+instanceSeed=-422549115
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-422549115 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-422549115 contexts: 
+Door=1
+Room id=8 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-422549115 contexts: 
+Door=3
+instanceSeed=-422549113
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-422549113 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-422549113 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-422549113 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-422549113 contexts: 
+Door=1
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-422549113 contexts: 
+Door=0
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=-422549113 contexts: 
+Door=2
+Room id=8 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-422549113 contexts: 
+Door=3
+instanceSeed=-422549112
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-422549112 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-422549112 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-422549112 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-422549112 contexts: 
+Door=2
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-422549112 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-422549112 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-422549112 contexts: 
+Door=2
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-422549112 contexts: 
+Door=2
+Room id=8 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-422549112 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=921104935
+instance seeds/frequencies: 921104936 (1.000000) 921104937 (1.000000) 921104944 (1.000000)
+score=3006.333333
+goal paths:
+instanceSeed=921104936
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=921104936 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=921104936 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=921104936 contexts: 
+Door=1
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=921104936 contexts: 
+Door=2
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=921104936 contexts: 
+Door=1
+Room id=6 mark=3 doors: 1 1 1 goals: 1 instanceSeed=921104936 contexts: 
+Door=3
+instanceSeed=921104937
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=921104937 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=921104937 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=921104937 contexts: 
+Door=1
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=921104937 contexts: 
+Door=2
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=921104937 contexts: 
+Door=1
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=921104937 contexts: 
+Door=2
+Room id=6 mark=3 doors: 1 1 1 goals: 1 instanceSeed=921104937 contexts: 
+Door=3
+instanceSeed=921104944
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=921104944 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=921104944 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=921104944 contexts: 
+Door=1
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=921104944 contexts: 
+Door=2
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=921104944 contexts: 
+Door=1
+Room id=6 mark=3 doors: 1 1 1 goals: 1 instanceSeed=921104944 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=158475815
+instance seeds/frequencies: 158475816 (1.000000) 158475821 (1.000000) 158475822 (1.000000)
+score=3006.333333
+goal paths:
+instanceSeed=158475816
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=158475816 contexts: 
+Door=0
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=158475816 contexts: 
+Door=1
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=158475816 contexts: 
+Door=0
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=158475816 contexts: 
+Door=2
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=158475816 contexts: 
+Door=2
+Room id=3 mark=3 doors: 1 1 1 goals: 1 instanceSeed=158475816 contexts: 
+Door=3
+instanceSeed=158475821
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=158475821 contexts: 
+Door=0
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=158475821 contexts: 
+Door=1
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=158475821 contexts: 
+Door=0
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=158475821 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=158475821 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=158475821 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=158475821 contexts: 
+Door=2
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=158475821 contexts: 
+Door=2
+Room id=3 mark=3 doors: 1 1 1 goals: 1 instanceSeed=158475821 contexts: 
+Door=3
+instanceSeed=158475822
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=158475822 contexts: 
+Door=0
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=158475822 contexts: 
+Door=1
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=158475822 contexts: 
+Door=1
+Room id=3 mark=3 doors: 1 1 1 goals: 1 instanceSeed=158475822 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=1875832312
+instance seeds/frequencies: 1875832312 (1.000000) 1875832319 (1.000000) 1875832321 (1.000000)
+score=3006.333333
+goal paths:
+instanceSeed=1875832312
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1875832312 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1875832312 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1875832312 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1875832312 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=1875832312 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=1875832312 contexts: 
+Door=0
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=1875832312 contexts: 
+Door=2
+Room id=3 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1875832312 contexts: 
+Door=3
+instanceSeed=1875832319
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1875832319 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1875832319 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1875832319 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=1875832319 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=1875832319 contexts: 
+Door=0
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=1875832319 contexts: 
+Door=2
+Room id=3 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1875832319 contexts: 
+Door=3
+instanceSeed=1875832321
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1875832321 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1875832321 contexts: 
+Door=2
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=1875832321 contexts: 
+Door=2
+Room id=3 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1875832321 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=1518315775
+instance seeds/frequencies: 1518315775 (1.000000) 1518315776 (1.000000) 1518315779 (1.000000)
+score=3006.333333
+goal paths:
+instanceSeed=1518315775
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1518315775 contexts: 
+Door=1
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1518315775 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=1518315775 contexts: 
+Door=2
+Room id=1 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1518315775 contexts: 
+Door=3
+instanceSeed=1518315776
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1518315776 contexts: 
+Door=1
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=1518315776 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=1518315776 contexts: 
+Door=2
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=1518315776 contexts: 
+Door=2
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=1518315776 contexts: 
+Door=0
+Room id=1 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1518315776 contexts: 
+Door=3
+instanceSeed=1518315779
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1518315779 contexts: 
+Door=1
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=1518315779 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=1518315779 contexts: 
+Door=2
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=1518315779 contexts: 
+Door=2
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=1518315779 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=1518315779 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1518315779 contexts: 
+Door=2
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=1518315779 contexts: 
+Door=0
+Room id=1 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1518315779 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=-1481799385
+instance seeds/frequencies: -1481799381 (1.000000) -1481799380 (1.000000) -1481799378 (1.000000)
+score=3006.333333
+goal paths:
+instanceSeed=-1481799381
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1481799381 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-1481799381 contexts: 
+Door=1
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-1481799381 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=-1481799381 contexts: 
+Door=1
+Room id=1 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1481799381 contexts: 
+Door=3
+instanceSeed=-1481799380
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1481799380 contexts: 
+Door=1
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1481799380 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-1481799380 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-1481799380 contexts: 
+Door=1
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-1481799380 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=-1481799380 contexts: 
+Door=1
+Room id=1 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1481799380 contexts: 
+Door=3
+instanceSeed=-1481799378
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1481799378 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-1481799378 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-1481799378 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-1481799378 contexts: 
+Door=1
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-1481799378 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=-1481799378 contexts: 
+Door=1
+Room id=1 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1481799378 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=-1940195040
+instance seeds/frequencies: -1940195040 (1.000000) -1940195036 (1.000000) -1940195034 (1.000000)
+score=3006.333333
+goal paths:
+instanceSeed=-1940195040
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1940195040 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-1940195040 contexts: 
+Door=1
+Room id=8 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1940195040 contexts: 
+Door=3
+instanceSeed=-1940195036
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1940195036 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-1940195036 contexts: 
+Door=1
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-1940195036 contexts: 
+Door=2
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=-1940195036 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-1940195036 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-1940195036 contexts: 
+Door=2
+Room id=8 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1940195036 contexts: 
+Door=3
+instanceSeed=-1940195034
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1940195034 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-1940195034 contexts: 
+Door=1
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-1940195034 contexts: 
+Door=2
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-1940195034 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1940195034 contexts: 
+Door=1
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-1940195034 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-1940195034 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-1940195034 contexts: 
+Door=2
+Room id=8 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1940195034 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=-86168523
+instance seeds/frequencies: -86168522 (1.000000) -86168521 (1.000000) -86168519 (1.000000)
+score=3006.000000
+goal paths:
+instanceSeed=-86168522
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-86168522 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-86168522 contexts: 
+Door=0
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=-86168522 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-86168522 contexts: 
+Door=1
+Room id=6 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-86168522 contexts: 
+Door=3
+instanceSeed=-86168521
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-86168521 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-86168521 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-86168521 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-86168521 contexts: 
+Door=2
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-86168521 contexts: 
+Door=1
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-86168521 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=-86168521 contexts: 
+Door=2
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-86168521 contexts: 
+Door=1
+Room id=6 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-86168521 contexts: 
+Door=3
+instanceSeed=-86168519
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-86168519 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-86168519 contexts: 
+Door=1
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-86168519 contexts: 
+Door=1
+Room id=6 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-86168519 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=1376390262
+instance seeds/frequencies: 1376390262 (1.000000) 1376390263 (1.000000) 1376390266 (1.000000)
+score=3006.000000
+goal paths:
+instanceSeed=1376390262
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1376390262 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=1376390262 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1376390262 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1376390262 contexts: 
+Door=0
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=1376390262 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=1376390262 contexts: 
+Door=0
+Room id=9 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1376390262 contexts: 
+Door=3
+instanceSeed=1376390263
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1376390263 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=1376390263 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1376390263 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1376390263 contexts: 
+Door=2
+Room id=9 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1376390263 contexts: 
+Door=3
+instanceSeed=1376390266
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1376390266 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1376390266 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=1376390266 contexts: 
+Door=1
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=1376390266 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=1376390266 contexts: 
+Door=0
+Room id=9 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1376390266 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=432901476
+instance seeds/frequencies: 432901477 (1.000000) 432901480 (1.000000) 432901481 (1.000000)
+score=3006.000000
+goal paths:
+instanceSeed=432901477
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=432901477 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=432901477 contexts: 
+Door=1
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=432901477 contexts: 
+Door=2
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=432901477 contexts: 
+Door=0
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=432901477 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=432901477 contexts: 
+Door=0
+Room id=9 mark=3 doors: 1 1 1 goals: 1 instanceSeed=432901477 contexts: 
+Door=3
+instanceSeed=432901480
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=432901480 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=432901480 contexts: 
+Door=1
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=432901480 contexts: 
+Door=2
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=432901480 contexts: 
+Door=2
+Room id=9 mark=3 doors: 1 1 1 goals: 1 instanceSeed=432901480 contexts: 
+Door=3
+instanceSeed=432901481
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=432901481 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=432901481 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=432901481 contexts: 
+Door=0
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=432901481 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=432901481 contexts: 
+Door=0
+Room id=9 mark=3 doors: 1 1 1 goals: 1 instanceSeed=432901481 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=-989724993
+instance seeds/frequencies: -989724991 (1.000000) -989724990 (1.000000) -989724985 (1.000000)
+score=3005.666667
+goal paths:
+instanceSeed=-989724991
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-989724991 contexts: 
+Door=2
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-989724991 contexts: 
+Door=2
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-989724991 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-989724991 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=-989724991 contexts: 
+Door=1
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-989724991 contexts: 
+Door=3
+instanceSeed=-989724990
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-989724990 contexts: 
+Door=2
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-989724990 contexts: 
+Door=2
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-989724990 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-989724990 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=-989724990 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=-989724990 contexts: 
+Door=2
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-989724990 contexts: 
+Door=3
+instanceSeed=-989724985
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-989724985 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-989724985 contexts: 
+Door=1
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=-989724985 contexts: 
+Door=2
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-989724985 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=363086928
+instance seeds/frequencies: 363086929 (1.000000) 363086933 (1.000000) 363086937 (1.000000)
+score=3005.666667
+goal paths:
+instanceSeed=363086929
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=363086929 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=363086929 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=363086929 contexts: 
+Door=0
+Room id=2 mark=3 doors: 1 1 1 goals: 1 instanceSeed=363086929 contexts: 
+Door=3
+instanceSeed=363086933
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=363086933 contexts: 
+Door=2
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=363086933 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=363086933 contexts: 
+Door=2
+Room id=2 mark=3 doors: 1 1 1 goals: 1 instanceSeed=363086933 contexts: 
+Door=3
+instanceSeed=363086937
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=363086937 contexts: 
+Door=2
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=363086937 contexts: 
+Door=1
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=363086937 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=363086937 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=363086937 contexts: 
+Door=2
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=363086937 contexts: 
+Door=0
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=363086937 contexts: 
+Door=1
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=363086937 contexts: 
+Door=2
+Room id=2 mark=3 doors: 1 1 1 goals: 1 instanceSeed=363086937 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=255559974
+instance seeds/frequencies: 255559975 (1.000000) 255559978 (1.000000) 255559983 (1.000000)
+score=3005.666667
+goal paths:
+instanceSeed=255559975
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=255559975 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=255559975 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=255559975 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=255559975 contexts: 
+Door=1
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=255559975 contexts: 
+Door=2
+Room id=3 mark=3 doors: 1 1 1 goals: 1 instanceSeed=255559975 contexts: 
+Door=3
+instanceSeed=255559978
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=255559978 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=255559978 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=255559978 contexts: 
+Door=0
+Room id=3 mark=3 doors: 1 1 1 goals: 1 instanceSeed=255559978 contexts: 
+Door=3
+instanceSeed=255559983
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=255559983 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=255559983 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=255559983 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=255559983 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=255559983 contexts: 
+Door=0
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=255559983 contexts: 
+Door=0
+Room id=3 mark=3 doors: 1 1 1 goals: 1 instanceSeed=255559983 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=2035300043
+instance seeds/frequencies: 2035300045 (1.000000) 2035300049 (1.000000) 2035300051 (1.000000)
+score=3005.666667
+goal paths:
+instanceSeed=2035300045
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=2035300045 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=2035300045 contexts: 
+Door=1
+Room id=5 mark=3 doors: 1 1 1 goals: 1 instanceSeed=2035300045 contexts: 
+Door=3
+instanceSeed=2035300049
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=2035300049 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=2035300049 contexts: 
+Door=1
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=2035300049 contexts: 
+Door=0
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=2035300049 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=2035300049 contexts: 
+Door=0
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=2035300049 contexts: 
+Door=1
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=2035300049 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=2035300049 contexts: 
+Door=1
+Room id=5 mark=3 doors: 1 1 1 goals: 1 instanceSeed=2035300049 contexts: 
+Door=3
+instanceSeed=2035300051
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=2035300051 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=2035300051 contexts: 
+Door=1
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=2035300051 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=2035300051 contexts: 
+Door=1
+Room id=5 mark=3 doors: 1 1 1 goals: 1 instanceSeed=2035300051 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=-169163570
+instance seeds/frequencies: -169163570 (1.000000) -169163567 (1.000000) -169163566 (1.000000)
+score=3005.666667
+goal paths:
+instanceSeed=-169163570
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-169163570 contexts: 
+Door=0
+Room id=5 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-169163570 contexts: 
+Door=3
+instanceSeed=-169163567
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-169163567 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-169163567 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-169163567 contexts: 
+Door=2
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-169163567 contexts: 
+Door=0
+Room id=5 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-169163567 contexts: 
+Door=3
+instanceSeed=-169163566
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-169163566 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-169163566 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-169163566 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-169163566 contexts: 
+Door=1
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-169163566 contexts: 
+Door=2
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=-169163566 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=-169163566 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-169163566 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-169163566 contexts: 
+Door=1
+Room id=5 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-169163566 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=-1915561901
+instance seeds/frequencies: -1915561901 (1.000000) -1915561899 (1.000000) -1915561894 (1.000000)
+score=3005.666667
+goal paths:
+instanceSeed=-1915561901
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1915561901 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1915561901 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-1915561901 contexts: 
+Door=2
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=-1915561901 contexts: 
+Door=2
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-1915561901 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=-1915561901 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=-1915561901 contexts: 
+Door=2
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1915561901 contexts: 
+Door=3
+instanceSeed=-1915561899
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1915561899 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-1915561899 contexts: 
+Door=2
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-1915561899 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-1915561899 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-1915561899 contexts: 
+Door=2
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1915561899 contexts: 
+Door=3
+instanceSeed=-1915561894
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1915561894 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-1915561894 contexts: 
+Door=2
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1915561894 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=-78669071
+instance seeds/frequencies: -78669071 (1.000000) -78669067 (1.000000) -78669066 (1.000000)
+score=3005.666667
+goal paths:
+instanceSeed=-78669071
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-78669071 contexts: 
+Door=2
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-78669071 contexts: 
+Door=0
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-78669071 contexts: 
+Door=1
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-78669071 contexts: 
+Door=0
+Room id=3 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-78669071 contexts: 
+Door=3
+instanceSeed=-78669067
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-78669067 contexts: 
+Door=2
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-78669067 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=-78669067 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=-78669067 contexts: 
+Door=0
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-78669067 contexts: 
+Door=2
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-78669067 contexts: 
+Door=0
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=-78669067 contexts: 
+Door=2
+Room id=3 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-78669067 contexts: 
+Door=3
+instanceSeed=-78669066
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-78669066 contexts: 
+Door=2
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=-78669066 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=-78669066 contexts: 
+Door=1
+Room id=3 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-78669066 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=-986922734
+instance seeds/frequencies: -986922732 (1.000000) -986922728 (1.000000) -986922726 (1.000000)
+score=3005.666667
+goal paths:
+instanceSeed=-986922732
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-986922732 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-986922732 contexts: 
+Door=1
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-986922732 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-986922732 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-986922732 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-986922732 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-986922732 contexts: 
+Door=1
+Room id=4 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-986922732 contexts: 
+Door=3
+instanceSeed=-986922728
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-986922728 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-986922728 contexts: 
+Door=1
+Room id=4 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-986922728 contexts: 
+Door=3
+instanceSeed=-986922726
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-986922726 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-986922726 contexts: 
+Door=1
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-986922726 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-986922726 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-986922726 contexts: 
+Door=1
+Room id=4 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-986922726 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=-1386928453
+instance seeds/frequencies: -1386928453 (1.000000) -1386928450 (1.000000) -1386928445 (1.000000)
+score=3005.666667
+goal paths:
+instanceSeed=-1386928453
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1386928453 contexts: 
+Door=0
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1386928453 contexts: 
+Door=3
+instanceSeed=-1386928450
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1386928450 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1386928450 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-1386928450 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-1386928450 contexts: 
+Door=2
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1386928450 contexts: 
+Door=3
+instanceSeed=-1386928445
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1386928445 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1386928445 contexts: 
+Door=1
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-1386928445 contexts: 
+Door=0
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-1386928445 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1386928445 contexts: 
+Door=2
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-1386928445 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=-1386928445 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-1386928445 contexts: 
+Door=0
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=-1386928445 contexts: 
+Door=0
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1386928445 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=268474190
+instance seeds/frequencies: 268474190 (1.000000) 268474191 (1.000000) 268474196 (1.000000)
+score=3005.666667
+goal paths:
+instanceSeed=268474190
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=268474190 contexts: 
+Door=1
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=268474190 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=268474190 contexts: 
+Door=0
+Room id=8 mark=3 doors: 1 1 1 goals: 1 instanceSeed=268474190 contexts: 
+Door=3
+instanceSeed=268474191
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=268474191 contexts: 
+Door=1
+Room id=8 mark=3 doors: 1 1 1 goals: 1 instanceSeed=268474191 contexts: 
+Door=3
+instanceSeed=268474196
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=268474196 contexts: 
+Door=1
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=268474196 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=268474196 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=268474196 contexts: 
+Door=1
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=268474196 contexts: 
+Door=1
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=268474196 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=268474196 contexts: 
+Door=0
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=268474196 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=268474196 contexts: 
+Door=1
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=268474196 contexts: 
+Door=1
+Room id=8 mark=3 doors: 1 1 1 goals: 1 instanceSeed=268474196 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=410223701
+instance seeds/frequencies: 410223701 (1.000000) 410223702 (1.000000) 410223703 (1.000000)
+score=3005.333333
+goal paths:
+instanceSeed=410223701
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=410223701 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=410223701 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=410223701 contexts: 
+Door=0
+Room id=4 mark=3 doors: 1 1 1 goals: 1 instanceSeed=410223701 contexts: 
+Door=3
+instanceSeed=410223702
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=410223702 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=410223702 contexts: 
+Door=0
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=410223702 contexts: 
+Door=1
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=410223702 contexts: 
+Door=1
+Room id=4 mark=3 doors: 1 1 1 goals: 1 instanceSeed=410223702 contexts: 
+Door=3
+instanceSeed=410223703
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=410223703 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=410223703 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=410223703 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=410223703 contexts: 
+Door=1
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=410223703 contexts: 
+Door=1
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=410223703 contexts: 
+Door=0
+Room id=4 mark=3 doors: 1 1 1 goals: 1 instanceSeed=410223703 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=1354684962
+instance seeds/frequencies: 1354684965 (1.000000) 1354684966 (1.000000) 1354684969 (1.000000)
+score=3005.333333
+goal paths:
+instanceSeed=1354684965
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1354684965 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=1354684965 contexts: 
+Door=1
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=1354684965 contexts: 
+Door=1
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=1354684965 contexts: 
+Door=0
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=1354684965 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1354684965 contexts: 
+Door=2
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=1354684965 contexts: 
+Door=1
+Room id=6 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1354684965 contexts: 
+Door=3
+instanceSeed=1354684966
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1354684966 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=1354684966 contexts: 
+Door=1
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=1354684966 contexts: 
+Door=0
+Room id=6 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1354684966 contexts: 
+Door=3
+instanceSeed=1354684969
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1354684969 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=1354684969 contexts: 
+Door=1
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=1354684969 contexts: 
+Door=1
+Room id=6 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1354684969 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=1190051921
+instance seeds/frequencies: 1190051922 (1.000000) 1190051924 (1.000000) 1190051928 (1.000000)
+score=3005.333333
+goal paths:
+instanceSeed=1190051922
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1190051922 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1190051922 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1190051922 contexts: 
+Door=1
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=1190051922 contexts: 
+Door=0
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=1190051922 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=1190051922 contexts: 
+Door=0
+Room id=3 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1190051922 contexts: 
+Door=3
+instanceSeed=1190051924
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1190051924 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1190051924 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=1190051924 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=1190051924 contexts: 
+Door=0
+Room id=3 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1190051924 contexts: 
+Door=3
+instanceSeed=1190051928
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1190051928 contexts: 
+Door=0
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=1190051928 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=1190051928 contexts: 
+Door=0
+Room id=3 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1190051928 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=1220658191
+instance seeds/frequencies: 1220658193 (1.000000) 1220658196 (1.000000) 1220658199 (1.000000)
+score=3005.333333
+goal paths:
+instanceSeed=1220658193
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1220658193 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1220658193 contexts: 
+Door=2
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=1220658193 contexts: 
+Door=1
+Room id=8 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1220658193 contexts: 
+Door=3
+instanceSeed=1220658196
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1220658196 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=1220658196 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1220658196 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1220658196 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=1220658196 contexts: 
+Door=2
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=1220658196 contexts: 
+Door=0
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=1220658196 contexts: 
+Door=0
+Room id=8 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1220658196 contexts: 
+Door=3
+instanceSeed=1220658199
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1220658199 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=1220658199 contexts: 
+Door=0
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1220658199 contexts: 
+Door=2
+Room id=8 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1220658199 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=1401882252
+instance seeds/frequencies: 1401882252 (1.000000) 1401882254 (1.000000) 1401882259 (1.000000)
+score=3005.333333
+goal paths:
+instanceSeed=1401882252
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1401882252 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1401882252 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1401882252 contexts: 
+Door=1
+Room id=9 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1401882252 contexts: 
+Door=3
+instanceSeed=1401882254
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1401882254 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1401882254 contexts: 
+Door=0
+Room id=9 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1401882254 contexts: 
+Door=3
+instanceSeed=1401882259
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1401882259 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1401882259 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1401882259 contexts: 
+Door=1
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1401882259 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1401882259 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1401882259 contexts: 
+Door=0
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=1401882259 contexts: 
+Door=1
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=1401882259 contexts: 
+Door=0
+Room id=9 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1401882259 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=1035042118
+instance seeds/frequencies: 1035042122 (1.000000) 1035042123 (1.000000) 1035042125 (1.000000)
+score=3005.333333
+goal paths:
+instanceSeed=1035042122
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1035042122 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=1035042122 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1035042122 contexts: 
+Door=2
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1035042122 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=1035042122 contexts: 
+Door=0
+Room id=3 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1035042122 contexts: 
+Door=3
+instanceSeed=1035042123
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1035042123 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=1035042123 contexts: 
+Door=0
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=1035042123 contexts: 
+Door=2
+Room id=3 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1035042123 contexts: 
+Door=3
+instanceSeed=1035042125
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1035042125 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=1035042125 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=1035042125 contexts: 
+Door=2
+Room id=7 mark=12 doors: 1 1 1 goals: 0 instanceSeed=1035042125 contexts: 
+Door=2
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=1035042125 contexts: 
+Door=0
+Room id=3 mark=3 doors: 1 1 1 goals: 1 instanceSeed=1035042125 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=2045088916
+instance seeds/frequencies: 2045088918 (1.000000) 2045088919 (1.000000) 2045088924 (1.000000)
+score=3005.333333
+goal paths:
+instanceSeed=2045088918
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=2045088918 contexts: 
+Door=1
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=2045088918 contexts: 
+Door=2
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=2045088918 contexts: 
+Door=0
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=2045088918 contexts: 
+Door=0
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=2045088918 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=2045088918 contexts: 
+Door=0
+Room id=1 mark=3 doors: 1 1 1 goals: 1 instanceSeed=2045088918 contexts: 
+Door=3
+instanceSeed=2045088919
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=2045088919 contexts: 
+Door=1
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=2045088919 contexts: 
+Door=2
+Room id=8 mark=13 doors: 1 1 1 goals: 0 instanceSeed=2045088919 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=2045088919 contexts: 
+Door=0
+Room id=1 mark=3 doors: 1 1 1 goals: 1 instanceSeed=2045088919 contexts: 
+Door=3
+instanceSeed=2045088924
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=2045088924 contexts: 
+Door=1
+Room id=6 mark=11 doors: 1 1 1 goals: 0 instanceSeed=2045088924 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=2045088924 contexts: 
+Door=0
+Room id=1 mark=3 doors: 1 1 1 goals: 1 instanceSeed=2045088924 contexts: 
+Door=3
+====================================
+numRooms=10, numDoors=3, numGoals=1
+contextSizes: 20
+effectDelayScale=20
+metaSeed=-1830217864
+instance seeds/frequencies: -1830217864 (1.000000) -1830217861 (1.000000) -1830217856 (1.000000)
+score=3005.333333
+goal paths:
+instanceSeed=-1830217864
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1830217864 contexts: 
+Door=0
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=-1830217864 contexts: 
+Door=0
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-1830217864 contexts: 
+Door=1
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-1830217864 contexts: 
+Door=0
+Room id=5 mark=10 doors: 1 1 1 goals: 0 instanceSeed=-1830217864 contexts: 
+Door=0
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1830217864 contexts: 
+Door=3
+instanceSeed=-1830217861
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1830217861 contexts: 
+Door=0
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1830217861 contexts: 
+Door=2
+Room id=3 mark=8 doors: 1 1 1 goals: 0 instanceSeed=-1830217861 contexts: 
+Door=2
+Room id=1 mark=6 doors: 1 1 1 goals: 0 instanceSeed=-1830217861 contexts: 
+Door=2
+Room id=9 mark=14 doors: 1 1 1 goals: 0 instanceSeed=-1830217861 contexts: 
+Door=0
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1830217861 contexts: 
+Door=3
+instanceSeed=-1830217856
+Room id=0 mark=0 doors: 1 1 1 goals: 0 instanceSeed=-1830217856 contexts: 
+Door=0
+Room id=4 mark=9 doors: 1 1 1 goals: 0 instanceSeed=-1830217856 contexts: 
+Door=0
+Room id=2 mark=7 doors: 1 1 1 goals: 0 instanceSeed=-1830217856 contexts: 
+Door=1
+Room id=7 mark=3 doors: 1 1 1 goals: 1 instanceSeed=-1830217856 contexts: 
+Door=3
+====================================

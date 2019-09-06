@@ -1,4 +1,4 @@
-Maze learning.
+Meta-maze learning.
 
 The learner can be trained to respond to a general
 meta-maze or specific maze instances. For meta-maze
@@ -19,7 +19,7 @@ only one of which leads to the beginning of a maze
 That door choice must be repeated at the maze exit
 in order to obtain the goal.
 
-See paper at http://tom.portegys.com/research.html#context2
+See paper at http://tom.portegys.com/research.html#maze
 
 To build:
 
@@ -32,12 +32,11 @@ Run Microsoft Visual Studio (2015 or greater) using solution (.sln) file.
 Directories/folders:
 
 1. src:
-- mona: mona 3.1.1.
+- mona: mona 3.1.2.
 - common files.
-- maze: maze environment.
-- gui: graphical programs.
+- maze: meta-maze environment.
 2. bin: executables.
-3. resource: images, etc.
+3. work: testing and analysis.
 
 Commands:
 

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="mona">
+      <UniqueIdentifier>{1dca7fb6-3738-4532-ba67-fc6dfe15979a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{ee20bf14-6237-4752-ba5a-fb676f3bc3dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="maze">
+      <UniqueIdentifier>{81cb544f-5248-4b8c-94a9-8eec8378bf16}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\mona\drive.cpp">
+      <Filter>mona</Filter>
+    </ClCompile>
+    <ClCompile Include="..\mona\dump.cpp">
+      <Filter>mona</Filter>
+    </ClCompile>
+    <ClCompile Include="..\mona\enable.cpp">
+      <Filter>mona</Filter>
+    </ClCompile>
+    <ClCompile Include="..\mona\learn.cpp">
+      <Filter>mona</Filter>
+    </ClCompile>
+    <ClCompile Include="..\mona\mona.cpp">
+      <Filter>mona</Filter>
+    </ClCompile>
+    <ClCompile Include="..\mona\respond.cpp">
+      <Filter>mona</Filter>
+    </ClCompile>
+    <ClCompile Include="..\mona\sense.cpp">
+      <Filter>mona</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\fileio.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\random.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\valueset.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="maze.cpp">
+      <Filter>maze</Filter>
+    </ClCompile>
+    <ClCompile Include="mazeBridgeDriver.cpp">
+      <Filter>maze</Filter>
+    </ClCompile>
+    <ClCompile Include="mazeBridgeTester.cpp">
+      <Filter>maze</Filter>
+    </ClCompile>
+    <ClCompile Include="mazeComponent.cpp">
+      <Filter>maze</Filter>
+    </ClCompile>
+    <ClCompile Include="mazeDriver.cpp">
+      <Filter>maze</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\mona\mona-aux.hpp">
+      <Filter>mona</Filter>
+    </ClInclude>
+    <ClInclude Include="..\mona\mona.hpp">
+      <Filter>mona</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\common.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\fileio.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\random.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\valueset.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="mazeBridgeDriver.hpp">
+      <Filter>maze</Filter>
+    </ClInclude>
+    <ClInclude Include="mazeComponent.hpp">
+      <Filter>maze</Filter>
+    </ClInclude>
+    <ClInclude Include="mazeDriver.hpp">
+      <Filter>maze</Filter>
+    </ClInclude>
+    <ClInclude Include="maze.hpp">
+      <Filter>maze</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

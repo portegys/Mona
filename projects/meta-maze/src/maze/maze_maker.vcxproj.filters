@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="common">
+      <UniqueIdentifier>{75328f3b-cca4-48e5-b8d4-a00afa25367b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="maze">
+      <UniqueIdentifier>{e9e4a321-d380-49db-9dfa-94b598c5cae2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\common\common.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\fileio.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\random.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\valueset.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="maze.hpp">
+      <Filter>maze</Filter>
+    </ClInclude>
+    <ClInclude Include="mazeComponent.hpp">
+      <Filter>maze</Filter>
+    </ClInclude>
+    <ClInclude Include="mazePathFinder.hpp">
+      <Filter>maze</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\common\fileio.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\random.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\valueset.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="maze.cpp">
+      <Filter>maze</Filter>
+    </ClCompile>
+    <ClCompile Include="mazeComponent.cpp">
+      <Filter>maze</Filter>
+    </ClCompile>
+    <ClCompile Include="mazeMaker.cpp">
+      <Filter>maze</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
