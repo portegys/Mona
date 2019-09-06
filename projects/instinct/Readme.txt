@@ -1,9 +1,11 @@
 Instinct evolution with Monkey and Bananas problem.
 
-Version 3.1 features an improved learning capability, which is demonstrated using the instinct environment.
-See comments in instinct_main.cpp, and paper at http://tom.portegys.com/research.html#instinct for details.
+This program demonstrates the learning of "instincts" which are hard-wired mediator neurons that are evolved and
+inherited by organisms. The purpose of instincts is to assist an organism in succeeding in its environment, 
+serving as a boost to experiential learning. The task is the "Monkey and Bananas" problem.
+See paper at http://tom.portegys.com/research.html#instinct for details.
 
-To install:
+To build:
 
 UNIX:
 1. cd mona; export MONA_HOME=`pwd`
@@ -14,14 +16,15 @@ UNIX:
 Windows:
 1. Run the trim.bat file in the bin folder to remove files that
    Windows doesn't need.
-2. Start Microsoft Visual Studio using solution (.sln) file.
+2. Run Microsoft Visual Studio (2015 or greater) using solution (.sln) file.
 
 Directories/folders:
 
 1. src:
-- mona: mona program.
+- mona: mona version 3.1.
 - common files.
 - instinct: instinct learning program.
+- gui: browser demo using WeirdX X Windows Server applet.
 2. bin: executables.
 3. resource: images, etc.
 4. data: data files.

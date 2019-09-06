@@ -1,0 +1,46 @@
+<HTML>
+<HEAD>
+<TITLE>Maze-learning Mouse</TITLE>
+</HEAD>
+<BODY bgcolor="#afafaf" >
+<center>
+<h3>Maze-learning Mouse</h3>
+</center>
+<p>
+Train the mouse to find the cheese by clicking out a path through the maze
+and selecting train mode a few time. Then test using the test mode. The
+real trick is to get the mouse to associate the door it picks from the
+start room to know which door to pick at the maze exit room to find the cheese.
+To do this, first train all the possible start/end combinations while using
+the same maze path. Then train a different maze path by clicking out just
+the rooms from entry to exit. Then go back to testing the complete start to goal
+paths. You may have to give it a couple of times to get used to the new maze
+path. If it succeeds, it means that the knowledge about what to do at the
+maze exit is independent of the intermediate task of getting through the
+maze itself.
+<hr>
+<p>
+<center>
+<object
+    classid = "clsid:8AD9C840-044E-11D1-B3E9-00805F499D93"
+    codebase = "http://java.sun.com/update/1.5.0/jinstall-1_5-windows-i586.cab#Version=1,5,0,0"
+    WIDTH = 600 HEIGHT = 500 NAME = AmazingMouse >
+    <PARAM NAME = "name" VALUE = "AmazingMouse" >
+    <PARAM NAME = CODE VALUE = "mona.AmazingMouse" >
+    <PARAM NAME = ARCHIVE VALUE = "AmazingMouse.jar" >
+    <PARAM name = "type" VALUE = "application/x-java-applet;version=1.5">
+    <PARAM NAME= "scriptable" VALUE="false">
+    <PARAM NAME = ServerHost VALUE ="itklinux.itk.ilstu.edu">
+    <PARAM NAME = ServerPort VALUE ="7671">
+    <comment>
+    <applet archive="AmazingMouse.jar"
+            code="mona.AmazingMouse"
+            width=600 height=500>
+    <param name=ServerHost value="itklinux.itk.ilstu.edu">
+    <param name=ServerPort value="7671">
+    </applet>
+    </comment>
+</object>
+</center>
+</BODY>
+</HTML>
