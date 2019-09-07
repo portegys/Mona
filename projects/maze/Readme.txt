@@ -32,7 +32,7 @@ Run Microsoft Visual Studio (2015 or greater) using solution (.sln) file.
 Directories/folders:
 
 1. src:
-- mona: mona 3.1.1.
+- mona: Mona version 3.1.1
 - common files.
 - maze: maze environment.
 - gui: graphical programs.

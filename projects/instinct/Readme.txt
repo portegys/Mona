@@ -21,7 +21,7 @@ Windows:
 Directories/folders:
 
 1. src:
-- mona: mona version 3.1.
+- mona: Mona version 3.1
 - common files.
 - instinct: instinct learning program.
 - gui: browser demo using WeirdX X Windows Server applet.
