@@ -64,9 +64,9 @@ then
     then
         args="${args} -display $display "
     fi
-    ${CMD_PATH}/../src/instinct/instinct $args
+    ${CMD_PATH}/instinct $args
 else
-    ${CMD_PATH}/../src/instinct/instinct $*
+    ${CMD_PATH}/instinct $*
 fi
 
 exit $?

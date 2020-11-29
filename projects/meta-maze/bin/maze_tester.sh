@@ -9,7 +9,7 @@ then
     export MONA_HOME
 fi
 
-${CMD_PATH}/../src/maze/maze_tester $*
+${CMD_PATH}/maze_tester $*
 
 exit $?
 

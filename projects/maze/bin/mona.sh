@@ -9,6 +9,6 @@ then
     export MONA_HOME
 fi
 
-${CMD_PATH}/../src/mona/mona $*
+${CMD_PATH}/mona $*
 
 exit $?
