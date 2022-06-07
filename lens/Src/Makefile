@@ -31,7 +31,7 @@ $(EXEC)$(EXT): ../$(EXEC)$(EXT)
 
 lib$(EXEC): $(BINDIR)/lib$(EXEC)$(VERSION).a
 $(BINDIR)/lib$(EXEC)$(VERSION).a:	$(LIB_OBJS) Makefile
-	ar cr $(BINDIR)/lib$(EXEC)$(VERSION).a $(LIB_OBJS)
+	ar cr "$(BINDIR)/lib$(EXEC)$(VERSION).a" $(LIB_OBJS)
 
 $O/main.o      :main.c system.h util.h network.h type.h connect.h command.h \
 		control.h display.h canvRect.h train.h extension.h Makefile

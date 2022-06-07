@@ -67,10 +67,10 @@ ifeq ($(HOSTTYPE),alpha)
 endif
 
 DEF= CC="$(CC)" CFLAGS="$(CFLAGS)" MACHINE=$(MACHINE) SYSLIB="$(SYSLIB)" \
-	TOP=$(shell pwd) EXT=$(EXT)
+	TOP="$(shell pwd)" EXT=$(EXT)
 
 DEF_NO_TK= CC="$(CC)" CFLAGS="-DNO_TK $(CFLAGS)" NO_TK=no_tk MACHINE=$(MACHINE) SYSLIB="$(SYSLIB)" \
-	TOP=$(shell pwd) EXT=$(EXT)
+	TOP="$(shell pwd)" EXT=$(EXT)
 
 MAKE_LENS  = $(MAKE) -C Src lens$(EXT) $(DEF) EXEC=lens PKGS=
 MAKE_ALENS = $(MAKE) -C Src alens$(EXT) $(DEF) EXEC=alens PKGS="-DADVANCED"
