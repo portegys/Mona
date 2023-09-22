@@ -2,6 +2,8 @@ This directory contains the Mona neural network, version 5.2.
 See the white paper at http://tom.portegys.com/research/MonaWhitepaper.pdf
 For conditions of distribution and use, see the license in src/mona/mona.hpp.
 
+Mona 6.1: https://github.com/morphognosis/NestingBirds
+
 Projects included:
 
 1. The Muzz world, a 3D environment of blocks and ramps. 
